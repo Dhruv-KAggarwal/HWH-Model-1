@@ -2,6 +2,7 @@ from flask import Flask, request, render_template, redirect, url_for, send_file
 import os
 import random
 import csv
+import gdown
 # from reportlab.lib.pagesizes import letter
 # from reportlab.pdfgen import canvas
 
@@ -9,6 +10,11 @@ app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'uploads'
 app.config['STATIC_FOLDER'] = 'static'
 os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
+
+# Download the file from Google Drive
+gdown.download("https://drive.google.com/uc?id=1NGA6caZnQyZc0flBERAECcdoKyoEKezo", 
+               os.path.join(app.config['STATIC_FOLDER'], 'synthetic_dna_beauty_dataset.csv'), 
+               quiet=False)
 
 def read_fasta(file_path):
     sequences = []
