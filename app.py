@@ -2,8 +2,6 @@ from flask import Flask, request, render_template, redirect, url_for, send_file
 import os
 import random
 import csv
-from transformers import BertTokenizer, BertForSequenceClassification
-import torch
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 
