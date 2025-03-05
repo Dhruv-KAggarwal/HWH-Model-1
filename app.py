@@ -2,8 +2,8 @@ from flask import Flask, request, render_template, redirect, url_for, send_file
 import os
 import random
 import csv
-from reportlab.lib.pagesizes import letter
-from reportlab.pdfgen import canvas
+# from reportlab.lib.pagesizes import letter
+# from reportlab.pdfgen import canvas
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'uploads'
@@ -48,15 +48,15 @@ def get_random_sequence(sequences):
 def get_random_entry(data):
     return random.choice(data)
 
-def generate_pdf(data, file_path):
-    c = canvas.Canvas(file_path, pagesize=letter)
-    width, height = letter
-    c.drawString(100, height - 100, "Predicted Data:")
-    y = height - 150
-    for key, value in data.items():
-        c.drawString(100, y, f"{key}: {value}")
-        y -= 20
-    c.save()
+# def generate_pdf(data, file_path):
+#     c = canvas.Canvas(file_path, pagesize=letter)
+#     width, height = letter
+#     c.drawString(100, height - 100, "Predicted Data:")
+#     y = height - 150
+#     for key, value in data.items():
+#         c.drawString(100, y, f"{key}: {value}")
+#         y -= 20
+#     c.save()
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
@@ -89,14 +89,14 @@ def index():
 
     return render_template('index.html', random_sequence=random_sequence, random_entry=random_entry)
 
-@app.route('/download_pdf', methods=['POST'])
-def download_pdf():
-    random_entry = request.form.get('random_entry')
-    if random_entry:
-        pdf_path = os.path.join(app.config['UPLOAD_FOLDER'], 'predicted_data.pdf')
-        generate_pdf(random_entry, pdf_path)
-        return send_file(pdf_path, as_attachment=True)
-    return redirect(url_for('index'))
+# @app.route('/download_pdf', methods=['POST'])
+# def download_pdf():
+#     random_entry = request.form.get('random_entry')
+#     if random_entry:
+#         pdf_path = os.path.join(app.config['UPLOAD_FOLDER'], 'predicted_data.pdf')
+#         generate_pdf(random_entry, pdf_path)
+#         return send_file(pdf_path, as_attachment=True)
+#     return redirect(url_for('index'))
 
 if __name__ == "__main__":
     app.run(debug=True)
