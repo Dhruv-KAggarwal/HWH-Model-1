@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DNA Sequence Input</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+            url('{{ url_for('static', filename='genback.jpg') }}');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+
+        h1 {
+            font-size: 48px;
+            font-weight: bold;
+            background: linear-gradient(to right, #FF00CD, #734EFF);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            display: inline-block;
+        }
+
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+
+        form {
+            margin: 20px 0;
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: large;
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        input[type="text"], input[type="file"] {
+            padding: 10px;
+            margin: 10px 0;
+            width: 80%;
+            max-width: 400px;
+        }
+
+        input[type="file"] {
+            display: none;
+        }
+
+        .file-upload {
+            padding: 10px 20px;
+            background: linear-gradient(to right, #FF00CD, #734EFF);
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            border-radius: 30px;
+            display: inline-block;
+        }
+
+        .file-upload:hover {
+            background-color: #000000;
+        }
+
+        button {
+            padding: 10px 20px;
+            background: linear-gradient(to right, #FF00CD, #734EFF);
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            border-radius: 30px;
+        }
+
+        button:hover {
+            background-color: #000000;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li {
+            background-color: #fff;
+            margin: 5px 0;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+
+        footer {
+            background-color: #000000;
+            padding: 10px 0;
+            text-align: center;
+            position: relative;
+            width: 100%;
+            bottom: 0;
+            font-weight: bold;
+            background: linear-gradient(to right, #FF00CD, #734EFF);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- <header>
+        <img src="{{ url_for('static', filename='header_image.jpg') }}" alt="Header Image" style="width:100%; height:auto;">
+    </header> -->
+    <main>
+        <h1>Welcome, Back !</h1>
+        <form action="/" method="post" enctype="multipart/form-data">
+            <label for="sequence">Enter a sequence (only A, T, G, C):</label><br>
+            <input type="text" id="sequence" name="sequence"><br><br>
+            <label for="file" class="file-upload">Choose FASTA file
+                <input type="file" id="file" name="file" accept=".fasta,.fa">
+            </label><br><br>
+            <button type="submit">Submit</button>
+        </form>
+        {% if random_entry %}
+            <h2>Predicted Data:</h2>
+            <ul>
+                <li>Skin Type: {{ random_entry['Skin_Type'] }}</li>
+                <li>Hair Type: {{ random_entry['Hair_Type'] }}</li>
+                <li>Hair Thickness: {{ random_entry['Hair_Thickness'] }}</li>
+                <li>Hair Loss Risk: {{ random_entry['Hair_Loss_Risk'] }}</li>
+                <li>Acne Risk: {{ random_entry['Acne_Risk'] }}</li>
+                <li>Wrinkle Risk: {{ random_entry['Wrinkle_Risk'] }}</li>
+                <li>Vitamin D Deficiency: {{ random_entry['Vitamin_D_Deficiency'] }}</li>
+                <li>Iron Deficiency: {{ random_entry['Iron_Deficiency'] }}</li>
+                <li>Lactose Intolerance: {{ random_entry['Lactose_Intolerance'] }}</li>
+                <li>Allergy Risk Fragrance: {{ random_entry['Allergy_Risk_Fragrance'] }}</li>
+                <li>Allergy Risk Sulfates: {{ random_entry['Allergy_Risk_Sulfates'] }}</li>
+                <li>Allergy Risk Parabens: {{ random_entry['Allergy_Risk_Parabens'] }}</li>
+                <li>Chemicals to Avoid: {{ random_entry['Chemicals_to_Avoid'] }}</li>
+                <li>UV Sensitivity: {{ random_entry['UV_Sensitivity'] }}</li>
+                <li>Best Skincare Product: {{ random_entry['Best_Skincare_Product'] }}</li>
+                <li>Skincare Ingredients: {{ random_entry['Skincare_Ingredients'] }}</li>
+                <li>Best Haircare Product: {{ random_entry['Best_Haircare_Product'] }}</li>
+                <li>Haircare Ingredients: {{ random_entry['Haircare_Ingredients'] }}</li>
+                <li>Best Supplement: {{ random_entry['Best_Supplement'] }}</li>
+            </ul>
+            <form action="/download_pdf" method="post">
+                <button type="submit">Download PDF</button>
+            </form>
+        {% endif %}
+    </main>
+    <!-- Add your footer here -->
+    <footer>
+        <p>&copy; 2025 Genova. All rights reserved.</p>
+    </footer>
+</body>
+</html>

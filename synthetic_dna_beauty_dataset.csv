@@ -1,0 +1,1001 @@
+ID,Age,Skin_Type,Hair_Type,Hair_Thickness,Hair_Loss_Risk,Acne_Risk,Wrinkle_Risk,Vitamin_D_Deficiency,Iron_Deficiency,Lactose_Intolerance,Allergy_Risk_Fragrance,Allergy_Risk_Sulfates,Allergy_Risk_Parabens,Chemicals_to_Avoid,UV_Sensitivity,Best_Skincare_Product,Skincare_Ingredients,Best_Haircare_Product,Haircare_Ingredients,Best_Supplement
+1,46,Normal,Curly,Thin,High,High,Medium,Yes,No,Yes,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Niacinamide, Retinol",Conditioner Y,"Argan Oil, Biotin",Vitamin D
+2,56,Dry,Curly,Medium,Medium,Medium,Medium,No,No,No,No,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Serum B,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+3,49,Oily,Frizzy,Thick,Low,Medium,Low,Yes,No,No,No,No,Yes,"Artificial Dyes, Formaldehyde",High,Serum B,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Biotin
+4,57,Normal,Wavy,Thin,Medium,Low,High,No,No,No,Yes,No,No,"Sulfates, Parabens, Alcohol",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Biotin
+5,26,Combination,Straight,Thin,Medium,High,Medium,Yes,Yes,Yes,No,No,No,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+6,20,Dry,Wavy,Thin,High,Low,High,Yes,Yes,Yes,No,No,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Shampoo X,"Coconut Oil, Keratin",Biotin
+7,47,Oily,Curly,Medium,High,Low,High,Yes,No,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Collagen
+8,41,Oily,Straight,Medium,Low,Medium,Low,Yes,Yes,Yes,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+9,19,Normal,Curly,Medium,Medium,Medium,High,Yes,No,Yes,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Biotin
+10,24,Normal,Curly,Thin,High,High,High,Yes,Yes,No,No,Yes,No,"Artificial Dyes, Formaldehyde",High,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+11,52,Oily,Curly,Thick,Medium,Low,High,No,Yes,No,Yes,No,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+12,36,Normal,Straight,Thick,Medium,Medium,Low,Yes,No,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+13,60,Normal,Curly,Thin,High,High,Medium,Yes,Yes,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Collagen
+14,24,Combination,Curly,Medium,Medium,Low,Low,Yes,No,No,No,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Castor Oil, Jojoba Oil",Collagen
+15,21,Dry,Curly,Medium,Medium,High,High,Yes,Yes,Yes,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+16,21,Oily,Frizzy,Thick,Medium,Medium,Low,No,No,Yes,No,No,No,"Artificial Dyes, Formaldehyde",High,Serum B,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Iron
+17,42,Dry,Frizzy,Thin,High,Low,Medium,Yes,Yes,No,No,Yes,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+18,41,Oily,Straight,Thick,Medium,Low,Medium,Yes,Yes,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+19,32,Normal,Frizzy,Medium,Low,Low,High,Yes,No,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",High,Serum B,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Collagen
+20,46,Oily,Curly,Medium,High,Low,Medium,No,No,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Biotin
+21,20,Dry,Wavy,Medium,High,Low,Low,Yes,Yes,No,No,No,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+22,33,Oily,Frizzy,Thin,Medium,Medium,Low,Yes,No,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+23,22,Normal,Wavy,Medium,High,High,Low,No,No,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Collagen, Ceramides",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+24,53,Combination,Straight,Thin,High,High,Low,Yes,No,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+25,55,Combination,Frizzy,Thin,High,Low,High,Yes,Yes,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+26,20,Normal,Curly,Thick,Low,Medium,Low,Yes,No,No,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+27,54,Oily,Wavy,Thin,High,High,High,Yes,No,No,No,No,Yes,"Sulfates, Parabens, Alcohol",High,Sunscreen C,"Niacinamide, Retinol",Conditioner Y,"Argan Oil, Biotin",Vitamin D
+28,40,Dry,Curly,Thin,Medium,High,Low,Yes,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Biotin
+29,40,Combination,Straight,Thick,High,Medium,High,No,No,No,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Collagen
+30,24,Dry,Straight,Medium,Low,High,Low,No,Yes,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Low,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Biotin
+31,37,Oily,Curly,Medium,Medium,High,High,Yes,No,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Iron
+32,42,Combination,Frizzy,Medium,High,High,Medium,No,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",High,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Biotin
+33,27,Normal,Straight,Medium,Low,High,Medium,No,Yes,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+34,49,Normal,Frizzy,Thin,Low,Low,High,Yes,No,No,No,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+35,21,Combination,Wavy,Medium,Medium,Medium,Low,No,Yes,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Iron
+36,43,Oily,Wavy,Thin,Low,Medium,Low,No,No,No,Yes,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+37,24,Dry,Wavy,Medium,High,High,Low,Yes,Yes,No,Yes,No,No,"Fragrance, Silicones, PEGs",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Coconut Oil, Keratin",Vitamin D
+38,39,Normal,Frizzy,Thick,Medium,High,Medium,No,No,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+39,49,Combination,Wavy,Thin,Low,Medium,Medium,No,No,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Collagen, Ceramides",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+40,51,Oily,Straight,Medium,Low,Low,High,No,Yes,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Collagen
+41,55,Dry,Curly,Medium,High,High,Low,No,No,Yes,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Vitamin D
+42,22,Combination,Wavy,Thin,Medium,Medium,High,Yes,No,Yes,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+43,21,Oily,Wavy,Thin,Low,High,High,No,No,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Niacinamide, Retinol",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+44,43,Oily,Wavy,Thick,Medium,High,High,Yes,Yes,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+45,47,Combination,Wavy,Thin,High,Low,Low,Yes,No,No,No,No,Yes,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Vitamin D
+46,45,Dry,Frizzy,Medium,High,Low,Medium,No,Yes,Yes,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Iron
+47,41,Dry,Frizzy,Medium,Medium,Low,Medium,No,No,Yes,No,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Iron
+48,30,Oily,Straight,Medium,Medium,Medium,High,No,No,No,No,Yes,No,"Fragrance, Silicones, PEGs",Low,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+49,57,Normal,Wavy,Thick,High,Low,Medium,Yes,Yes,Yes,No,No,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Biotin
+50,36,Normal,Straight,Medium,Low,High,Medium,No,Yes,No,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Collagen
+51,24,Combination,Straight,Medium,High,High,High,No,Yes,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Vitamin D
+52,60,Combination,Frizzy,Thin,Medium,Low,Medium,Yes,No,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",High,Serum B,"Collagen, Ceramides",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+53,34,Combination,Straight,Medium,High,Low,Low,No,Yes,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",High,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+54,60,Dry,Curly,Medium,High,High,Low,Yes,Yes,Yes,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+55,51,Normal,Wavy,Thick,High,Low,Low,No,No,Yes,Yes,Yes,No,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+56,41,Oily,Straight,Thin,Medium,Low,High,Yes,No,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Biotin
+57,30,Dry,Curly,Medium,Low,High,Low,Yes,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Biotin
+58,55,Oily,Straight,Medium,High,Low,High,No,Yes,Yes,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+59,22,Dry,Straight,Thick,Medium,Medium,Low,No,Yes,No,No,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Niacinamide, Retinol",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+60,33,Dry,Curly,Thin,Medium,High,Medium,Yes,No,Yes,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Collagen, Ceramides",Conditioner Y,"Argan Oil, Biotin",Collagen
+61,25,Oily,Straight,Thick,High,Low,High,No,Yes,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+62,51,Normal,Curly,Thin,Medium,Medium,Medium,Yes,No,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+63,59,Normal,Wavy,Thin,High,High,High,Yes,Yes,No,No,No,Yes,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Collagen
+64,51,Dry,Curly,Thin,Low,Medium,High,Yes,Yes,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Castor Oil, Jojoba Oil",Iron
+65,47,Normal,Wavy,Thick,Medium,Low,Low,Yes,Yes,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+66,54,Oily,Curly,Medium,High,High,Medium,No,Yes,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Aloe Vera, Shea Butter",Vitamin D
+67,35,Dry,Wavy,Thin,High,High,High,Yes,No,No,No,No,No,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Vitamin D
+68,20,Dry,Frizzy,Thin,High,Medium,High,Yes,No,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+69,30,Dry,Wavy,Medium,Medium,High,Medium,No,No,Yes,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Serum B,"Niacinamide, Retinol",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+70,33,Normal,Straight,Thin,Low,High,High,No,Yes,No,Yes,No,No,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Iron
+71,38,Dry,Frizzy,Thin,Medium,Low,High,No,No,Yes,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Iron
+72,58,Combination,Straight,Thick,High,Low,High,No,Yes,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+73,36,Combination,Curly,Medium,Low,Medium,High,Yes,Yes,Yes,Yes,No,Yes,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Collagen
+74,25,Combination,Straight,Thin,Low,Low,High,No,Yes,No,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+75,51,Combination,Curly,Medium,Low,High,Low,No,No,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Vitamin D
+76,35,Combination,Curly,Thick,Medium,Low,Low,Yes,Yes,Yes,Yes,No,No,"Artificial Dyes, Formaldehyde",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+77,58,Normal,Curly,Thin,High,High,High,Yes,Yes,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Vitamin D
+78,58,Combination,Frizzy,Thin,Medium,Medium,Low,No,Yes,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Iron
+79,42,Oily,Straight,Thin,Low,Low,Medium,No,No,Yes,Yes,Yes,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+80,37,Dry,Curly,Medium,Medium,Medium,High,Yes,No,No,No,No,No,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Iron
+81,21,Normal,Wavy,Medium,Low,Medium,Low,No,Yes,No,Yes,No,No,"Sulfates, Parabens, Alcohol",High,Serum B,"Niacinamide, Retinol",Conditioner Y,"Coconut Oil, Keratin",Biotin
+82,19,Oily,Frizzy,Medium,Low,Medium,Medium,Yes,Yes,Yes,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+83,57,Normal,Straight,Medium,Low,Low,High,No,No,No,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+84,60,Dry,Wavy,Thin,Low,Low,High,No,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Biotin
+85,29,Dry,Frizzy,Thin,Low,High,High,No,No,Yes,No,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Aloe Vera, Shea Butter",Vitamin D
+86,32,Normal,Frizzy,Thin,High,Medium,Low,No,Yes,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+87,31,Normal,Frizzy,Thin,High,Low,Low,No,Yes,Yes,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Biotin
+88,58,Oily,Curly,Thick,High,Medium,High,No,Yes,Yes,Yes,Yes,No,"Artificial Dyes, Formaldehyde",High,Serum B,"Collagen, Ceramides",Conditioner Y,"Coconut Oil, Keratin",Biotin
+89,32,Oily,Curly,Medium,High,Low,High,No,No,No,No,No,No,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Niacinamide, Retinol",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+90,42,Combination,Frizzy,Medium,Medium,Low,Low,No,No,No,No,No,No,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+91,31,Normal,Wavy,Thin,High,High,High,Yes,No,Yes,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+92,50,Combination,Frizzy,Thick,High,High,High,No,Yes,No,No,Yes,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+93,38,Oily,Curly,Thick,Low,Medium,High,No,No,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+94,32,Combination,Frizzy,Thin,Medium,Low,High,Yes,No,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+95,19,Combination,Straight,Thin,High,High,Medium,No,Yes,No,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+96,36,Combination,Curly,Thin,Low,Medium,Medium,Yes,No,No,Yes,Yes,No,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Iron
+97,60,Normal,Straight,Thin,Medium,Low,Medium,Yes,No,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Collagen
+98,53,Oily,Straight,Thick,Medium,High,High,Yes,No,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Collagen
+99,48,Combination,Frizzy,Thin,Medium,High,Low,Yes,Yes,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Iron
+100,58,Normal,Straight,Medium,Low,Low,High,No,No,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Biotin
+101,31,Oily,Frizzy,Thin,Medium,High,Medium,Yes,Yes,Yes,No,No,Yes,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Iron
+102,37,Oily,Straight,Medium,Medium,High,High,Yes,Yes,No,No,Yes,Yes,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+103,47,Normal,Straight,Thin,High,High,Medium,No,No,No,No,No,No,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Vitamin D
+104,29,Normal,Frizzy,Thick,High,Medium,Medium,No,Yes,Yes,No,No,No,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+105,37,Oily,Frizzy,Thick,Low,Low,High,Yes,Yes,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Collagen
+106,38,Oily,Straight,Thick,Medium,High,Low,No,No,Yes,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+107,28,Normal,Curly,Medium,Medium,Medium,Medium,Yes,No,No,No,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Biotin
+108,54,Normal,Wavy,Thin,Medium,Medium,High,Yes,No,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+109,18,Oily,Frizzy,Medium,Medium,Low,High,No,Yes,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Iron
+110,28,Normal,Frizzy,Thin,Low,Medium,High,No,Yes,Yes,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+111,39,Oily,Curly,Thin,Medium,Medium,Medium,Yes,No,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Iron
+112,60,Oily,Frizzy,Medium,High,High,Medium,Yes,Yes,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Niacinamide, Retinol",Conditioner Y,"Coconut Oil, Keratin",Collagen
+113,23,Combination,Straight,Thick,Medium,High,Low,Yes,No,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Iron
+114,43,Dry,Frizzy,Thick,Medium,Medium,Medium,Yes,No,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+115,41,Dry,Wavy,Thick,Low,Low,Low,No,No,No,Yes,Yes,No,"Sulfates, Parabens, Alcohol",High,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Collagen
+116,52,Dry,Curly,Medium,Medium,Low,High,No,No,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Collagen
+117,21,Oily,Curly,Thick,Low,High,High,No,Yes,No,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+118,55,Combination,Wavy,Medium,High,Low,Medium,No,Yes,Yes,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+119,20,Normal,Frizzy,Medium,High,Medium,Low,Yes,No,No,No,No,Yes,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+120,32,Normal,Wavy,Medium,Medium,Medium,Low,Yes,No,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Collagen, Ceramides",Conditioner Y,"Argan Oil, Biotin",Vitamin D
+121,30,Combination,Curly,Medium,Medium,High,Low,Yes,No,Yes,No,No,No,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+122,38,Combination,Wavy,Thin,High,Low,High,Yes,No,Yes,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Collagen
+123,26,Oily,Curly,Thin,Medium,High,Medium,No,Yes,Yes,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+124,35,Dry,Frizzy,Medium,Medium,Medium,High,No,No,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Castor Oil, Jojoba Oil",Iron
+125,24,Oily,Curly,Thick,Low,High,Medium,No,Yes,No,No,No,Yes,"Sulfates, Parabens, Alcohol",Low,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+126,48,Dry,Curly,Medium,Medium,High,High,No,Yes,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+127,29,Dry,Straight,Thin,Low,Low,High,No,Yes,No,No,No,Yes,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+128,37,Normal,Wavy,Thin,Medium,Low,Low,No,Yes,No,No,Yes,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Shampoo X,"Aloe Vera, Shea Butter",Iron
+129,20,Combination,Straight,Thick,High,Medium,Low,No,No,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Niacinamide, Retinol",Conditioner Y,"Coconut Oil, Keratin",Collagen
+130,43,Dry,Frizzy,Medium,Low,Medium,Medium,Yes,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Biotin
+131,20,Oily,Wavy,Thick,High,Medium,High,Yes,Yes,No,Yes,No,No,"Fragrance, Silicones, PEGs",Low,Serum B,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Collagen
+132,35,Oily,Frizzy,Thin,Low,Medium,Medium,Yes,No,Yes,No,No,No,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Vitamin D
+133,58,Dry,Curly,Thick,High,High,Medium,Yes,No,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+134,52,Dry,Curly,Thin,High,Low,Low,No,No,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Coconut Oil, Keratin",Iron
+135,39,Normal,Curly,Thin,Low,Low,Low,Yes,Yes,No,No,No,No,"Artificial Dyes, Formaldehyde",Low,Serum B,"Collagen, Ceramides",Conditioner Y,"Argan Oil, Biotin",Vitamin D
+136,39,Normal,Wavy,Medium,High,Medium,Low,Yes,No,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Collagen, Ceramides",Conditioner Y,"Argan Oil, Biotin",Iron
+137,25,Dry,Straight,Thin,High,Medium,Medium,Yes,No,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+138,49,Combination,Curly,Medium,Low,Medium,High,No,Yes,No,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+139,45,Oily,Straight,Thin,Low,Medium,Medium,Yes,Yes,Yes,Yes,No,Yes,"Fragrance, Silicones, PEGs",Medium,Moisturizer A,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Iron
+140,36,Normal,Wavy,Thin,Low,Low,Medium,No,No,No,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+141,39,Oily,Straight,Thick,High,High,Medium,No,No,Yes,No,No,No,"Fragrance, Silicones, PEGs",Medium,Serum B,"Niacinamide, Retinol",Hair Oil Z,"Coconut Oil, Keratin",Vitamin D
+142,47,Normal,Curly,Thin,High,Medium,Low,Yes,Yes,Yes,No,No,No,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+143,37,Normal,Frizzy,Medium,High,Medium,High,No,No,Yes,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Iron
+144,55,Combination,Straight,Thick,Low,Low,Medium,Yes,No,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+145,30,Normal,Curly,Medium,High,Medium,High,Yes,Yes,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Niacinamide, Retinol",Conditioner Y,"Coconut Oil, Keratin",Collagen
+146,35,Normal,Wavy,Thin,Medium,High,Low,Yes,Yes,No,No,No,Yes,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Biotin
+147,29,Combination,Straight,Thin,Low,High,Low,No,Yes,Yes,No,No,No,"Sulfates, Parabens, Alcohol",High,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Vitamin D
+148,57,Normal,Wavy,Thick,High,Low,Low,Yes,Yes,No,No,Yes,No,"Fragrance, Silicones, PEGs",High,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Coconut Oil, Keratin",Vitamin D
+149,58,Oily,Wavy,Medium,Low,Medium,High,Yes,No,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",High,Sunscreen C,"Niacinamide, Retinol",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+150,40,Combination,Wavy,Thick,Medium,Low,Low,No,No,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+151,55,Dry,Straight,Thin,High,Low,Low,Yes,No,Yes,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Biotin
+152,49,Normal,Wavy,Thick,Low,Low,Low,No,Yes,Yes,No,No,No,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+153,27,Normal,Straight,Thick,Medium,Low,Medium,Yes,No,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Biotin
+154,37,Normal,Wavy,Medium,Low,High,High,No,No,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Collagen
+155,53,Normal,Straight,Thick,High,High,High,Yes,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+156,29,Normal,Straight,Thin,Low,High,Low,No,No,Yes,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Biotin
+157,51,Combination,Wavy,Thick,Medium,High,Low,No,No,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Iron
+158,38,Oily,Wavy,Medium,Low,High,High,Yes,No,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+159,26,Combination,Straight,Thin,High,Medium,Medium,Yes,No,No,No,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+160,50,Normal,Curly,Thin,High,Medium,Medium,Yes,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Collagen
+161,48,Combination,Curly,Thin,High,Low,Low,No,No,No,No,No,No,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Niacinamide, Retinol",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+162,42,Dry,Wavy,Medium,Medium,High,Medium,Yes,Yes,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Iron
+163,58,Oily,Curly,Medium,High,High,Low,Yes,Yes,Yes,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+164,48,Dry,Curly,Medium,Medium,High,Medium,No,No,Yes,No,No,No,"Fragrance, Silicones, PEGs",Low,Serum B,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Biotin
+165,58,Combination,Wavy,Thick,Medium,Low,High,Yes,No,No,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+166,33,Dry,Wavy,Thick,High,Low,Medium,Yes,Yes,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Biotin
+167,55,Oily,Straight,Thick,Low,High,High,Yes,Yes,Yes,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Biotin
+168,53,Oily,Wavy,Medium,Medium,Medium,High,No,No,Yes,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+169,42,Dry,Curly,Thick,Low,Low,Low,Yes,Yes,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+170,59,Dry,Frizzy,Medium,Medium,Low,High,Yes,No,No,No,No,Yes,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Biotin
+171,33,Oily,Frizzy,Thin,High,Medium,High,No,No,No,No,No,No,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Collagen
+172,48,Combination,Wavy,Thin,Low,Medium,Low,Yes,Yes,Yes,No,No,No,"Artificial Dyes, Formaldehyde",Medium,Sunscreen C,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Vitamin D
+173,55,Dry,Wavy,Thick,Medium,Medium,Low,Yes,Yes,Yes,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Collagen
+174,43,Dry,Wavy,Thin,Low,High,High,No,No,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+175,41,Dry,Frizzy,Thin,Low,High,High,No,Yes,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Iron
+176,19,Combination,Straight,Thick,High,Medium,Medium,No,Yes,Yes,No,No,No,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+177,59,Combination,Curly,Medium,High,Low,Medium,No,No,No,No,No,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Biotin
+178,43,Dry,Wavy,Thick,Low,High,Low,Yes,No,No,Yes,Yes,No,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Biotin
+179,25,Dry,Curly,Thick,High,Medium,Low,No,Yes,Yes,Yes,No,Yes,"Fragrance, Silicones, PEGs",Low,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+180,53,Combination,Curly,Thick,Medium,Medium,Low,Yes,Yes,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Biotin
+181,30,Oily,Straight,Thick,Low,Medium,Medium,Yes,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+182,42,Dry,Wavy,Thin,Low,Low,High,Yes,Yes,No,No,Yes,No,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Coconut Oil, Keratin",Biotin
+183,57,Normal,Wavy,Thick,High,Low,Medium,No,No,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Iron
+184,38,Combination,Curly,Thick,Low,Medium,High,Yes,Yes,No,No,Yes,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Biotin
+185,46,Oily,Frizzy,Thick,Medium,High,High,No,No,Yes,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Argan Oil, Biotin",Iron
+186,49,Dry,Curly,Thick,Low,Medium,Low,Yes,Yes,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+187,54,Oily,Curly,Thin,Low,High,Low,Yes,No,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Collagen
+188,18,Normal,Wavy,Thin,Medium,Low,Low,No,Yes,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Vitamin D
+189,36,Oily,Wavy,Medium,High,Medium,High,No,No,Yes,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Biotin
+190,56,Combination,Frizzy,Thick,Medium,Medium,Low,No,No,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Niacinamide, Retinol",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+191,59,Dry,Wavy,Thin,Low,Medium,High,No,Yes,No,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Niacinamide, Retinol",Scalp Treatment W,"Coconut Oil, Keratin",Collagen
+192,27,Combination,Curly,Medium,High,High,High,No,No,No,Yes,No,No,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+193,35,Oily,Curly,Thick,High,High,High,No,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+194,46,Dry,Wavy,Thick,High,High,Medium,No,Yes,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Iron
+195,21,Normal,Straight,Thin,Low,Low,Low,No,Yes,Yes,No,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Biotin
+196,34,Combination,Frizzy,Thick,High,Low,Medium,No,Yes,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Biotin
+197,25,Oily,Straight,Medium,Medium,Medium,Medium,Yes,Yes,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Iron
+198,47,Combination,Straight,Medium,Low,High,Low,No,No,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+199,56,Normal,Straight,Medium,High,High,Low,No,No,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",High,Serum B,"Collagen, Ceramides",Conditioner Y,"Castor Oil, Jojoba Oil",Iron
+200,49,Dry,Wavy,Medium,Medium,Medium,High,Yes,No,No,No,No,No,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Coconut Oil, Keratin",Collagen
+201,19,Normal,Frizzy,Medium,Medium,Medium,Medium,Yes,Yes,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+202,24,Combination,Straight,Thick,Low,Medium,High,Yes,Yes,No,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+203,32,Combination,Frizzy,Thick,Low,High,High,No,Yes,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+204,35,Normal,Frizzy,Medium,High,Medium,High,Yes,Yes,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Low,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Biotin
+205,49,Combination,Straight,Thick,Low,High,High,No,Yes,No,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Iron
+206,53,Combination,Curly,Medium,Low,High,High,Yes,Yes,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+207,24,Normal,Wavy,Thick,Low,Medium,High,Yes,Yes,Yes,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Iron
+208,56,Dry,Curly,Thick,Low,High,Medium,No,Yes,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Collagen
+209,38,Oily,Frizzy,Thick,Low,Medium,Low,No,No,Yes,No,No,No,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+210,28,Combination,Curly,Thin,High,Low,Low,Yes,Yes,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+211,21,Normal,Curly,Thin,High,Low,Low,Yes,Yes,No,No,No,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Iron
+212,58,Dry,Wavy,Thin,High,High,Low,Yes,Yes,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Castor Oil, Jojoba Oil",Iron
+213,30,Oily,Straight,Thin,High,Medium,High,Yes,Yes,Yes,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Coconut Oil, Keratin",Collagen
+214,55,Normal,Frizzy,Medium,Low,Medium,Medium,Yes,No,Yes,No,No,No,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Collagen, Ceramides",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+215,54,Combination,Frizzy,Thin,Low,Medium,High,No,No,Yes,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+216,37,Combination,Frizzy,Thin,High,Low,High,No,No,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+217,27,Combination,Frizzy,Medium,Medium,High,Medium,No,No,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",High,Serum B,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+218,60,Normal,Straight,Medium,Medium,High,High,No,No,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Niacinamide, Retinol",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+219,24,Combination,Wavy,Thin,Low,Low,Low,Yes,No,Yes,No,No,Yes,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Biotin
+220,29,Oily,Frizzy,Thick,Low,Medium,Low,Yes,Yes,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+221,27,Dry,Straight,Medium,Low,High,Medium,No,No,Yes,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Serum B,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+222,21,Normal,Wavy,Medium,Medium,Low,Medium,No,Yes,Yes,No,No,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Collagen, Ceramides",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+223,45,Oily,Curly,Thick,Low,Low,High,No,No,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Biotin
+224,28,Combination,Straight,Thin,Low,High,Low,Yes,Yes,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+225,47,Normal,Straight,Thin,Medium,Medium,High,No,Yes,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Collagen
+226,24,Dry,Straight,Thin,Medium,High,High,No,No,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+227,52,Normal,Curly,Thick,Medium,Medium,Low,No,No,No,No,No,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Vitamin D
+228,26,Combination,Straight,Thick,High,Medium,High,Yes,No,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Collagen, Ceramides",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+229,59,Combination,Frizzy,Thin,High,Low,High,Yes,Yes,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+230,36,Dry,Wavy,Thick,Low,Low,High,No,Yes,Yes,No,No,No,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Biotin
+231,50,Normal,Frizzy,Medium,Medium,Medium,Medium,No,Yes,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Argan Oil, Biotin",Biotin
+232,60,Normal,Frizzy,Thick,Medium,Medium,Low,No,Yes,Yes,Yes,No,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Iron
+233,23,Oily,Wavy,Medium,High,Low,Low,No,No,Yes,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+234,20,Combination,Frizzy,Thick,Medium,Medium,Medium,No,No,No,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Serum B,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Collagen
+235,31,Normal,Frizzy,Thin,High,Medium,High,No,No,No,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Vitamin D
+236,36,Normal,Frizzy,Thin,High,Low,Medium,No,No,No,No,No,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+237,39,Dry,Frizzy,Thin,Low,High,Medium,Yes,Yes,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Niacinamide, Retinol",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+238,60,Oily,Wavy,Thin,Medium,Low,Low,Yes,No,Yes,Yes,No,No,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Iron
+239,49,Dry,Straight,Thick,Low,Low,Medium,No,No,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Collagen
+240,24,Normal,Wavy,Medium,Low,High,Low,Yes,No,Yes,Yes,No,No,"Artificial Dyes, Formaldehyde",Low,Serum B,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Collagen
+241,23,Normal,Curly,Thick,Low,High,Low,No,Yes,Yes,No,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Aloe Vera, Shea Butter",Vitamin D
+242,35,Dry,Curly,Thick,Medium,Medium,Low,Yes,Yes,Yes,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Iron
+243,60,Oily,Straight,Thin,Low,Low,Low,Yes,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",High,Serum B,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+244,22,Dry,Straight,Thin,Medium,Low,High,No,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Collagen
+245,19,Normal,Frizzy,Thick,Low,Low,Low,No,No,Yes,No,No,No,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+246,34,Combination,Straight,Medium,High,Medium,High,No,No,Yes,No,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+247,44,Combination,Curly,Medium,Medium,Low,High,No,Yes,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+248,31,Oily,Curly,Medium,High,High,Low,Yes,Yes,No,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+249,36,Combination,Frizzy,Thick,Low,High,Medium,Yes,Yes,No,No,No,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Niacinamide, Retinol",Shampoo X,"Coconut Oil, Keratin",Collagen
+250,29,Normal,Frizzy,Thin,High,Medium,High,No,No,No,No,No,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Collagen, Ceramides",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+251,26,Normal,Wavy,Thin,High,Low,High,Yes,No,Yes,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Iron
+252,35,Combination,Wavy,Thin,Low,Low,High,Yes,Yes,Yes,No,No,No,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+253,54,Dry,Wavy,Medium,Medium,High,High,Yes,Yes,No,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Niacinamide, Retinol",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+254,41,Dry,Frizzy,Medium,Medium,High,Medium,No,No,Yes,No,No,Yes,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Iron
+255,50,Combination,Straight,Thin,Low,Low,Medium,Yes,No,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Niacinamide, Retinol",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+256,21,Combination,Frizzy,Medium,High,High,Low,No,No,Yes,No,No,No,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Niacinamide, Retinol",Scalp Treatment W,"Argan Oil, Biotin",Iron
+257,53,Oily,Wavy,Thick,Medium,High,High,Yes,No,Yes,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+258,40,Combination,Frizzy,Thick,Medium,High,Low,No,No,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Coconut Oil, Keratin",Iron
+259,38,Dry,Frizzy,Thin,High,High,High,Yes,No,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+260,43,Combination,Frizzy,Thin,High,Low,High,Yes,Yes,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Vitamin D
+261,20,Normal,Straight,Thick,High,High,Low,Yes,Yes,No,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+262,57,Normal,Frizzy,Thick,Medium,High,Medium,Yes,Yes,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Vitamin D
+263,51,Dry,Frizzy,Thick,High,Low,High,Yes,Yes,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Collagen
+264,38,Dry,Curly,Thin,Low,Low,Medium,Yes,Yes,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+265,56,Normal,Frizzy,Medium,Medium,Medium,Low,Yes,Yes,No,No,No,No,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Collagen
+266,48,Dry,Frizzy,Thick,Medium,Low,Low,Yes,Yes,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Collagen
+267,36,Oily,Straight,Thin,Low,High,High,Yes,Yes,Yes,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Niacinamide, Retinol",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+268,25,Oily,Frizzy,Thick,Medium,High,Medium,No,Yes,No,No,No,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+269,59,Dry,Frizzy,Thick,Medium,Low,High,Yes,Yes,Yes,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+270,59,Normal,Wavy,Medium,High,High,High,No,Yes,Yes,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+271,18,Normal,Wavy,Medium,High,Low,Medium,No,No,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Iron
+272,35,Normal,Straight,Medium,Low,Low,High,No,No,No,Yes,Yes,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Collagen
+273,26,Normal,Straight,Thin,High,High,Medium,Yes,Yes,No,Yes,No,No,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Collagen
+274,24,Dry,Curly,Thick,Low,High,High,No,No,No,No,No,No,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+275,32,Oily,Straight,Medium,Low,Medium,Medium,Yes,Yes,No,No,No,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+276,56,Oily,Curly,Thin,Low,Medium,Medium,No,No,No,No,No,No,"Sulfates, Parabens, Alcohol",High,Sunscreen C,"Collagen, Ceramides",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+277,41,Oily,Frizzy,Thick,High,Medium,High,Yes,Yes,No,Yes,No,No,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Collagen
+278,39,Normal,Curly,Medium,Medium,Low,High,No,Yes,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+279,19,Dry,Wavy,Thin,Medium,Low,High,No,No,No,Yes,No,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Biotin
+280,25,Oily,Curly,Thin,Low,High,Low,Yes,Yes,Yes,Yes,Yes,No,"Artificial Dyes, Formaldehyde",High,Serum B,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Biotin
+281,27,Oily,Straight,Thin,Medium,High,Medium,Yes,No,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Iron
+282,49,Dry,Curly,Medium,Medium,Low,Low,No,No,No,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+283,23,Dry,Wavy,Thin,Low,Medium,High,No,No,No,Yes,No,No,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+284,27,Combination,Straight,Thick,Low,Low,Low,Yes,No,No,No,No,No,"Fragrance, Silicones, PEGs",High,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+285,54,Oily,Frizzy,Thin,High,Low,High,Yes,Yes,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",High,Serum B,"Niacinamide, Retinol",Shampoo X,"Coconut Oil, Keratin",Vitamin D
+286,41,Dry,Straight,Thick,High,Medium,Low,Yes,No,Yes,No,No,No,"Fragrance, Silicones, PEGs",High,Serum B,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Biotin
+287,30,Normal,Wavy,Medium,Medium,Low,Low,No,Yes,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Vitamin D
+288,23,Dry,Curly,Thick,Low,Low,Low,Yes,No,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Niacinamide, Retinol",Hair Oil Z,"Coconut Oil, Keratin",Collagen
+289,41,Combination,Curly,Thick,Medium,High,High,Yes,No,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+290,54,Oily,Wavy,Thin,Low,Low,Low,No,No,Yes,No,No,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Niacinamide, Retinol",Conditioner Y,"Argan Oil, Biotin",Vitamin D
+291,27,Oily,Wavy,Thick,High,Low,High,Yes,No,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Iron
+292,20,Dry,Wavy,Thin,Low,Medium,Medium,No,Yes,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Medium,Moisturizer A,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Biotin
+293,55,Combination,Frizzy,Thick,Medium,Low,Low,No,No,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Shampoo X,"Coconut Oil, Keratin",Collagen
+294,39,Combination,Curly,Thick,Medium,Low,High,No,No,No,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+295,20,Dry,Curly,Thin,High,High,Medium,No,Yes,Yes,Yes,No,No,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Collagen
+296,24,Combination,Wavy,Thick,High,Low,High,Yes,No,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+297,57,Dry,Curly,Thin,High,Low,Medium,No,Yes,No,No,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Serum B,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+298,32,Oily,Wavy,Medium,High,Medium,High,No,No,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Collagen
+299,54,Normal,Straight,Thin,High,Medium,Medium,Yes,Yes,Yes,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Collagen
+300,60,Combination,Wavy,Medium,Low,High,High,No,No,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+301,26,Oily,Straight,Thick,High,Medium,Medium,No,No,Yes,No,No,No,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+302,51,Normal,Wavy,Thin,High,Low,High,Yes,No,Yes,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Biotin
+303,37,Combination,Curly,Thin,High,Medium,Medium,No,No,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Collagen
+304,44,Oily,Straight,Thin,Medium,Medium,High,No,Yes,Yes,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+305,23,Normal,Curly,Medium,Low,Medium,Low,Yes,Yes,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Biotin
+306,51,Oily,Wavy,Thick,Low,Low,Medium,Yes,No,Yes,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Coconut Oil, Keratin",Collagen
+307,43,Combination,Curly,Thick,Low,Low,Low,No,Yes,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Aloe Vera, Shea Butter",Vitamin D
+308,34,Normal,Wavy,Medium,Low,High,Medium,No,No,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Iron
+309,39,Normal,Frizzy,Thin,High,High,Low,Yes,Yes,Yes,Yes,No,Yes,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Collagen
+310,35,Combination,Straight,Medium,High,Low,Medium,Yes,Yes,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Biotin
+311,38,Dry,Wavy,Medium,High,Medium,Low,No,No,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+312,38,Normal,Straight,Thin,High,Medium,High,No,No,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Serum B,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Biotin
+313,53,Dry,Curly,Thin,Medium,High,High,Yes,Yes,No,No,No,Yes,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+314,50,Combination,Curly,Thick,Medium,Low,Low,No,No,Yes,No,No,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Iron
+315,22,Combination,Wavy,Medium,High,Medium,High,No,Yes,No,No,No,Yes,"Fragrance, Silicones, PEGs",Low,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+316,29,Normal,Frizzy,Medium,Medium,Low,Low,No,No,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+317,35,Dry,Frizzy,Medium,High,Medium,Low,No,Yes,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+318,59,Normal,Wavy,Medium,High,Medium,Low,No,No,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Collagen
+319,26,Combination,Curly,Thick,High,Medium,High,No,Yes,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Niacinamide, Retinol",Shampoo X,"Castor Oil, Jojoba Oil",Iron
+320,35,Dry,Curly,Medium,Low,Medium,High,Yes,No,No,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Coconut Oil, Keratin",Collagen
+321,40,Dry,Frizzy,Thin,Low,Medium,Medium,No,No,Yes,No,No,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Castor Oil, Jojoba Oil",Iron
+322,51,Dry,Straight,Medium,High,High,Low,No,Yes,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+323,54,Dry,Wavy,Thick,High,Medium,Low,Yes,No,Yes,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+324,41,Combination,Wavy,Thick,Low,Low,High,No,No,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Iron
+325,28,Combination,Curly,Medium,Low,Medium,Low,No,Yes,No,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Niacinamide, Retinol",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+326,60,Normal,Straight,Medium,High,Medium,Medium,No,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",High,Serum B,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Vitamin D
+327,44,Oily,Curly,Thin,Low,Low,Medium,No,Yes,No,No,No,No,"Artificial Dyes, Formaldehyde",High,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Coconut Oil, Keratin",Biotin
+328,48,Normal,Curly,Thin,Medium,Medium,High,No,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+329,32,Oily,Frizzy,Thick,High,High,Low,Yes,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+330,35,Dry,Frizzy,Thin,Medium,Medium,Low,No,Yes,No,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+331,22,Combination,Frizzy,Thick,Medium,Low,High,No,Yes,Yes,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+332,24,Combination,Frizzy,Medium,High,Medium,High,No,Yes,No,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+333,25,Oily,Frizzy,Thin,Medium,High,Medium,Yes,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Collagen
+334,35,Normal,Straight,Thin,Medium,High,High,No,Yes,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+335,39,Normal,Curly,Thick,Low,High,Medium,Yes,Yes,No,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Vitamin D
+336,26,Normal,Frizzy,Medium,Medium,Low,Low,Yes,Yes,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+337,48,Combination,Curly,Medium,High,Medium,Medium,Yes,Yes,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+338,38,Dry,Curly,Medium,High,Medium,High,No,No,No,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Niacinamide, Retinol",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+339,27,Oily,Frizzy,Medium,Medium,Low,High,No,No,No,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+340,42,Dry,Frizzy,Thick,High,Medium,High,Yes,No,No,Yes,No,No,"Sulfates, Parabens, Alcohol",High,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Iron
+341,51,Dry,Straight,Thick,Low,High,Low,Yes,No,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+342,32,Oily,Straight,Thick,Low,Medium,Low,No,No,Yes,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Iron
+343,20,Dry,Straight,Medium,High,High,High,No,Yes,No,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Collagen
+344,37,Dry,Frizzy,Medium,Medium,Medium,Medium,No,No,Yes,Yes,No,Yes,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Castor Oil, Jojoba Oil",Biotin
+345,19,Dry,Wavy,Thick,High,High,High,Yes,Yes,Yes,No,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Coconut Oil, Keratin",Iron
+346,57,Dry,Frizzy,Thin,Medium,Medium,Medium,No,No,Yes,No,No,No,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+347,59,Normal,Frizzy,Thick,Medium,Medium,Low,No,Yes,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Niacinamide, Retinol",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+348,35,Dry,Wavy,Thick,High,Low,High,Yes,Yes,No,Yes,No,No,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Collagen, Ceramides",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+349,30,Normal,Curly,Thin,Medium,High,Low,No,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+350,26,Combination,Straight,Thin,Medium,Medium,Low,No,No,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+351,59,Normal,Straight,Medium,High,High,Medium,Yes,No,Yes,Yes,No,No,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Niacinamide, Retinol",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+352,25,Normal,Curly,Thick,Low,High,Low,No,No,Yes,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+353,54,Oily,Wavy,Thin,Medium,High,Medium,No,No,No,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+354,29,Oily,Frizzy,Medium,Medium,High,Medium,Yes,Yes,No,No,No,Yes,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Collagen, Ceramides",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+355,45,Dry,Straight,Thick,High,Medium,Low,No,No,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Hyaluronic Acid, Vitamin C",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+356,46,Normal,Wavy,Thick,Medium,High,Medium,No,No,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",High,Serum B,"Niacinamide, Retinol",Conditioner Y,"Coconut Oil, Keratin",Collagen
+357,55,Normal,Straight,Thin,Medium,Low,High,Yes,No,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Niacinamide, Retinol",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+358,19,Combination,Straight,Thick,Low,Low,High,Yes,No,No,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Iron
+359,24,Combination,Frizzy,Medium,Medium,Medium,Low,Yes,Yes,Yes,Yes,Yes,No,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Castor Oil, Jojoba Oil",Collagen
+360,28,Oily,Curly,Thick,High,Low,Medium,Yes,No,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+361,53,Dry,Frizzy,Medium,High,Low,High,No,Yes,Yes,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+362,25,Normal,Straight,Thin,Medium,High,Medium,Yes,No,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",High,Serum B,"Niacinamide, Retinol",Conditioner Y,"Coconut Oil, Keratin",Collagen
+363,26,Normal,Frizzy,Thin,High,Low,Medium,No,Yes,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Low,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+364,22,Normal,Curly,Thick,Low,Low,High,No,Yes,No,No,No,Yes,"Sulfates, Parabens, Alcohol",Low,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+365,47,Dry,Frizzy,Thick,Medium,Low,Low,Yes,Yes,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+366,47,Normal,Wavy,Thick,Low,High,High,No,No,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Collagen
+367,39,Oily,Frizzy,Medium,Medium,Medium,Medium,No,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Niacinamide, Retinol",Conditioner Y,"Argan Oil, Biotin",Vitamin D
+368,52,Combination,Curly,Thick,Low,Medium,High,Yes,No,No,No,No,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+369,56,Combination,Curly,Thick,High,High,Low,Yes,No,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Medium,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Collagen
+370,19,Dry,Frizzy,Thick,Medium,Low,Low,No,No,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+371,22,Normal,Straight,Thin,Medium,Low,Medium,No,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",Medium,Serum B,"Niacinamide, Retinol",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+372,46,Normal,Wavy,Thick,High,Medium,High,No,No,Yes,No,No,Yes,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Aloe Vera, Shea Butter",Collagen
+373,54,Dry,Straight,Thick,Medium,Low,Medium,No,No,No,No,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+374,26,Oily,Wavy,Thick,Medium,Low,Low,No,No,No,No,No,Yes,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Biotin
+375,54,Oily,Wavy,Thin,Medium,Low,Low,Yes,No,No,No,No,No,"Artificial Dyes, Formaldehyde",Low,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+376,19,Dry,Straight,Thick,High,Low,Medium,No,Yes,No,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Niacinamide, Retinol",Conditioner Y,"Argan Oil, Biotin",Iron
+377,50,Oily,Straight,Medium,Low,Medium,Medium,No,Yes,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Biotin
+378,22,Oily,Straight,Thick,Low,Low,High,No,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",Medium,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+379,24,Dry,Straight,Thick,High,High,High,Yes,No,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Coconut Oil, Keratin",Iron
+380,50,Combination,Wavy,Thin,Low,Medium,Low,Yes,No,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",Medium,Serum B,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Biotin
+381,38,Dry,Straight,Medium,High,Medium,High,No,No,Yes,Yes,No,No,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Biotin
+382,31,Dry,Curly,Thin,Medium,Low,Low,Yes,Yes,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Biotin
+383,22,Combination,Straight,Thick,Low,Low,Low,No,Yes,Yes,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+384,29,Dry,Curly,Thin,Medium,High,High,No,No,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Collagen
+385,39,Dry,Curly,Thin,Low,High,Medium,Yes,Yes,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+386,28,Combination,Straight,Thin,Low,Medium,Medium,Yes,No,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Coconut Oil, Keratin",Collagen
+387,43,Dry,Straight,Thick,High,Medium,Low,No,No,No,No,Yes,No,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Coconut Oil, Keratin",Iron
+388,58,Dry,Wavy,Medium,Low,Medium,High,Yes,No,No,Yes,Yes,No,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+389,42,Dry,Wavy,Thin,Low,Low,Low,Yes,Yes,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Aloe Vera, Shea Butter",Vitamin D
+390,19,Oily,Straight,Thick,Medium,High,Medium,No,No,Yes,No,No,No,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+391,55,Dry,Straight,Thin,Low,High,Low,Yes,No,No,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Vitamin D
+392,42,Dry,Frizzy,Thin,Medium,High,Low,Yes,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Serum B,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Biotin
+393,54,Combination,Curly,Thin,Medium,Low,Medium,No,Yes,Yes,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Collagen
+394,54,Dry,Wavy,Thick,Low,High,Medium,Yes,Yes,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Biotin
+395,46,Oily,Straight,Thick,Low,Medium,High,Yes,No,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Biotin
+396,32,Oily,Straight,Medium,Low,Low,Medium,Yes,Yes,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Collagen
+397,60,Normal,Frizzy,Thin,High,Low,Medium,Yes,Yes,No,No,No,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Collagen
+398,51,Normal,Wavy,Thick,Medium,Low,High,Yes,No,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Collagen, Ceramides",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+399,35,Normal,Wavy,Thin,Medium,High,Medium,No,Yes,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Vitamin D
+400,38,Dry,Straight,Thick,High,High,High,Yes,Yes,No,No,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Biotin
+401,33,Combination,Curly,Medium,Low,Medium,High,No,No,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Iron
+402,22,Normal,Wavy,Thick,Medium,Low,Medium,No,Yes,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+403,49,Oily,Straight,Thick,Medium,Medium,Medium,No,No,No,No,Yes,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+404,39,Combination,Wavy,Thin,High,Medium,High,No,No,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Collagen, Ceramides",Scalp Treatment W,"Castor Oil, Jojoba Oil",Collagen
+405,60,Combination,Straight,Medium,Medium,Medium,Low,No,No,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+406,32,Combination,Wavy,Thin,Low,Medium,Low,Yes,No,No,No,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Collagen
+407,24,Dry,Straight,Thin,Low,High,Low,Yes,Yes,No,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Coconut Oil, Keratin",Biotin
+408,42,Dry,Frizzy,Thick,Medium,Medium,Medium,No,No,Yes,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Niacinamide, Retinol",Conditioner Y,"Coconut Oil, Keratin",Iron
+409,31,Combination,Straight,Thin,High,High,Low,No,No,No,No,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Niacinamide, Retinol",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+410,21,Normal,Frizzy,Thin,Medium,Medium,Medium,No,No,No,No,No,No,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+411,59,Dry,Wavy,Medium,High,Medium,Medium,No,No,No,No,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+412,31,Combination,Curly,Thick,Medium,Low,Low,Yes,No,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Collagen, Ceramides",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+413,45,Combination,Curly,Thin,Low,Low,Low,Yes,Yes,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Coconut Oil, Keratin",Vitamin D
+414,40,Combination,Curly,Thin,Low,High,Medium,Yes,No,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Vitamin D
+415,19,Oily,Straight,Medium,Medium,High,Medium,Yes,No,No,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+416,58,Dry,Curly,Thin,Low,High,Medium,Yes,No,Yes,No,No,No,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Collagen
+417,25,Combination,Curly,Thin,Low,High,Medium,No,No,Yes,No,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Vitamin D
+418,46,Normal,Curly,Thick,Low,Low,Low,Yes,Yes,No,Yes,No,No,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Iron
+419,42,Combination,Straight,Medium,Medium,Low,High,Yes,Yes,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+420,19,Combination,Curly,Thin,Low,Low,Medium,No,Yes,No,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+421,47,Combination,Curly,Thin,High,Low,High,Yes,No,Yes,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Iron
+422,19,Normal,Straight,Thick,Low,Medium,Medium,Yes,Yes,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+423,30,Normal,Straight,Thin,Low,Medium,High,Yes,Yes,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Collagen
+424,26,Oily,Straight,Thin,High,Medium,High,No,Yes,No,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Biotin
+425,33,Oily,Curly,Medium,Low,High,Low,Yes,Yes,No,Yes,No,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+426,54,Normal,Wavy,Thick,Medium,Low,High,Yes,Yes,Yes,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Collagen
+427,49,Combination,Curly,Medium,Medium,Low,Low,Yes,No,No,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+428,26,Normal,Straight,Thin,High,High,High,No,Yes,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+429,34,Normal,Curly,Thin,High,High,Medium,Yes,No,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+430,35,Oily,Frizzy,Thin,Medium,Low,Medium,Yes,No,Yes,No,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Biotin
+431,21,Combination,Frizzy,Medium,Medium,High,High,No,Yes,No,Yes,Yes,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Collagen
+432,37,Oily,Frizzy,Thin,Low,High,High,No,No,Yes,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Iron
+433,37,Normal,Frizzy,Thick,High,Low,Medium,No,Yes,No,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Coconut Oil, Keratin",Collagen
+434,18,Dry,Wavy,Thick,Medium,Low,Low,No,Yes,Yes,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+435,42,Dry,Straight,Medium,High,High,Low,Yes,Yes,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+436,40,Dry,Straight,Thick,High,Low,Low,Yes,No,No,No,No,Yes,"Sulfates, Parabens, Alcohol",Low,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Iron
+437,41,Normal,Frizzy,Medium,Medium,Low,Low,No,No,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Coconut Oil, Keratin",Iron
+438,29,Normal,Straight,Thin,Medium,Medium,Low,No,Yes,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+439,18,Combination,Frizzy,Thin,Medium,Medium,Medium,Yes,No,No,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Iron
+440,21,Dry,Curly,Medium,Low,Low,Medium,Yes,No,Yes,No,No,Yes,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+441,29,Dry,Frizzy,Thick,Low,Medium,Medium,No,Yes,Yes,Yes,No,No,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Coconut Oil, Keratin",Iron
+442,44,Combination,Straight,Thin,Medium,High,Medium,Yes,No,No,No,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+443,32,Dry,Wavy,Thin,Medium,Low,High,No,Yes,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+444,38,Dry,Wavy,Thin,Medium,High,Low,Yes,Yes,No,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+445,46,Oily,Wavy,Medium,High,High,Medium,Yes,No,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",High,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+446,32,Combination,Frizzy,Thick,Low,High,Low,Yes,No,Yes,No,No,Yes,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Biotin
+447,35,Combination,Wavy,Medium,Low,Medium,Low,Yes,No,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+448,32,Dry,Straight,Thin,High,Low,High,Yes,No,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Vitamin D
+449,51,Oily,Straight,Medium,High,Medium,High,No,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+450,24,Combination,Frizzy,Thin,High,Medium,Medium,Yes,No,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+451,58,Oily,Straight,Thick,Low,Medium,Low,No,No,Yes,Yes,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+452,21,Combination,Frizzy,Thin,Medium,Medium,Low,No,No,Yes,No,No,No,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Collagen, Ceramides",Conditioner Y,"Coconut Oil, Keratin",Biotin
+453,39,Normal,Straight,Thick,Medium,Medium,Medium,Yes,Yes,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Iron
+454,53,Dry,Wavy,Medium,High,Medium,High,No,Yes,Yes,Yes,No,Yes,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+455,42,Combination,Frizzy,Thin,High,Low,High,Yes,Yes,No,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+456,46,Combination,Wavy,Medium,Medium,Low,High,No,Yes,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Niacinamide, Retinol",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+457,53,Combination,Frizzy,Medium,Low,Medium,High,No,No,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+458,49,Normal,Straight,Thin,High,High,Low,Yes,Yes,Yes,No,No,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Niacinamide, Retinol",Hair Oil Z,"Coconut Oil, Keratin",Collagen
+459,23,Normal,Straight,Thin,Low,Medium,Medium,No,No,Yes,No,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Coconut Oil, Keratin",Collagen
+460,40,Oily,Curly,Medium,High,Low,Low,Yes,No,Yes,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+461,38,Normal,Wavy,Thin,Medium,Medium,Medium,No,Yes,Yes,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+462,18,Combination,Straight,Thin,Low,Medium,Medium,Yes,No,Yes,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Collagen
+463,28,Dry,Straight,Thick,Medium,High,High,Yes,No,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Collagen, Ceramides",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+464,55,Combination,Curly,Medium,Medium,High,High,Yes,No,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Coconut Oil, Keratin",Iron
+465,50,Oily,Wavy,Thick,Low,Low,Low,No,No,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",High,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+466,18,Dry,Curly,Medium,High,High,Low,Yes,No,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+467,37,Dry,Wavy,Thin,Medium,High,High,Yes,No,No,No,No,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Collagen
+468,24,Oily,Straight,Thick,High,Medium,Medium,Yes,No,Yes,No,No,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Niacinamide, Retinol",Conditioner Y,"Argan Oil, Biotin",Biotin
+469,47,Combination,Curly,Medium,High,Medium,Low,Yes,Yes,No,No,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Sunscreen C,"Niacinamide, Retinol",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+470,42,Oily,Curly,Thin,Low,High,Low,Yes,Yes,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+471,20,Oily,Wavy,Medium,Low,Low,Medium,Yes,Yes,No,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Castor Oil, Jojoba Oil",Iron
+472,44,Dry,Frizzy,Thick,Medium,Low,High,Yes,No,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Biotin
+473,55,Combination,Curly,Thin,Medium,Medium,Medium,No,Yes,No,No,No,No,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+474,28,Oily,Straight,Thin,Low,Low,Medium,No,No,No,No,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+475,39,Dry,Curly,Thick,High,High,Medium,No,Yes,No,Yes,No,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Collagen, Ceramides",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+476,51,Oily,Straight,Thin,Low,High,Low,No,Yes,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+477,28,Combination,Curly,Thick,Medium,High,Medium,Yes,No,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Niacinamide, Retinol",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+478,31,Normal,Curly,Medium,Low,Low,Medium,Yes,Yes,Yes,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+479,59,Oily,Wavy,Medium,Low,Medium,Low,Yes,No,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+480,41,Normal,Wavy,Thick,High,Medium,Low,Yes,Yes,Yes,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+481,27,Normal,Straight,Thick,Low,Low,High,Yes,Yes,No,No,No,Yes,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Collagen
+482,34,Dry,Frizzy,Thin,Medium,Low,High,No,Yes,Yes,No,No,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+483,29,Oily,Wavy,Thin,High,Medium,Low,No,No,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+484,27,Combination,Straight,Medium,Medium,Medium,Medium,Yes,Yes,Yes,No,No,Yes,"Sulfates, Parabens, Alcohol",High,Serum B,"Collagen, Ceramides",Conditioner Y,"Coconut Oil, Keratin",Biotin
+485,42,Dry,Wavy,Thick,High,High,High,No,No,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Iron
+486,42,Combination,Curly,Medium,Low,High,Medium,No,Yes,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+487,58,Dry,Curly,Medium,Medium,Low,High,Yes,No,Yes,No,No,Yes,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+488,28,Normal,Straight,Medium,High,Low,Medium,Yes,No,Yes,Yes,No,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Niacinamide, Retinol",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+489,29,Normal,Wavy,Medium,High,Low,High,Yes,Yes,No,No,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+490,51,Dry,Wavy,Thin,Low,Medium,Medium,No,Yes,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Iron
+491,36,Combination,Straight,Thick,Low,High,High,No,Yes,Yes,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Aloe Vera, Shea Butter",Biotin
+492,27,Normal,Frizzy,Medium,Low,Low,Low,Yes,Yes,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+493,29,Dry,Straight,Medium,Medium,High,High,Yes,No,No,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Niacinamide, Retinol",Conditioner Y,"Argan Oil, Biotin",Iron
+494,52,Normal,Curly,Medium,Medium,Medium,High,Yes,No,Yes,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Niacinamide, Retinol",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+495,41,Oily,Wavy,Thin,Medium,Low,High,No,Yes,No,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Niacinamide, Retinol",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+496,55,Combination,Straight,Medium,High,Medium,High,No,No,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Coconut Oil, Keratin",Collagen
+497,38,Combination,Frizzy,Medium,High,Medium,Low,Yes,Yes,Yes,No,No,Yes,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Coconut Oil, Keratin",Collagen
+498,40,Oily,Frizzy,Thin,Low,Low,Medium,Yes,Yes,No,No,Yes,No,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Collagen
+499,52,Dry,Wavy,Thin,Medium,Low,High,Yes,No,Yes,No,No,No,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Niacinamide, Retinol",Conditioner Y,"Argan Oil, Biotin",Vitamin D
+500,54,Oily,Curly,Medium,High,High,High,No,Yes,Yes,No,No,No,"Fragrance, Silicones, PEGs",High,Serum B,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+501,60,Oily,Straight,Medium,Low,Medium,Low,Yes,No,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Niacinamide, Retinol",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+502,39,Combination,Wavy,Thick,Low,Low,Medium,No,Yes,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Biotin
+503,45,Dry,Frizzy,Thick,Low,Low,Low,No,Yes,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Castor Oil, Jojoba Oil",Iron
+504,59,Oily,Frizzy,Medium,High,Low,High,Yes,Yes,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Iron
+505,54,Dry,Straight,Thick,Medium,Medium,High,Yes,Yes,No,No,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+506,53,Oily,Frizzy,Medium,Medium,Low,Medium,Yes,Yes,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+507,40,Combination,Straight,Thin,Low,Medium,High,No,Yes,No,Yes,Yes,No,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Collagen, Ceramides",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+508,35,Normal,Curly,Thick,Medium,Medium,High,No,Yes,Yes,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Niacinamide, Retinol",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+509,29,Combination,Straight,Thick,Low,Low,High,No,No,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+510,33,Normal,Frizzy,Medium,Medium,Low,Low,No,Yes,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Coconut Oil, Keratin",Collagen
+511,43,Oily,Wavy,Medium,Low,Low,High,No,No,No,No,Yes,No,"Fragrance, Silicones, PEGs",Medium,Serum B,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+512,55,Normal,Wavy,Thick,Medium,Medium,Low,No,No,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Biotin
+513,40,Dry,Curly,Thin,High,High,High,No,Yes,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",High,Serum B,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+514,58,Combination,Wavy,Thick,Low,High,Medium,No,No,No,No,No,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Biotin
+515,46,Combination,Frizzy,Medium,Medium,Low,High,No,Yes,Yes,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Iron
+516,47,Oily,Straight,Medium,Medium,Medium,High,Yes,No,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+517,21,Combination,Straight,Thick,High,Medium,Medium,No,Yes,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+518,55,Combination,Straight,Thick,High,Low,Medium,Yes,Yes,Yes,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Collagen, Ceramides",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+519,38,Normal,Curly,Thin,High,Low,Medium,No,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+520,53,Combination,Curly,Medium,High,Low,High,Yes,Yes,No,No,No,No,"Artificial Dyes, Formaldehyde",Low,Face Wash D,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+521,30,Oily,Curly,Thick,Low,Low,High,No,No,Yes,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+522,25,Oily,Curly,Medium,High,Low,Medium,Yes,No,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+523,59,Dry,Frizzy,Thick,High,High,Medium,Yes,No,No,Yes,No,No,"Fragrance, Silicones, PEGs",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+524,34,Oily,Straight,Thick,Medium,Low,High,No,Yes,No,No,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Serum B,"Niacinamide, Retinol",Scalp Treatment W,"Coconut Oil, Keratin",Biotin
+525,23,Combination,Frizzy,Thick,High,High,Medium,Yes,Yes,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+526,23,Normal,Straight,Medium,Low,Medium,High,No,Yes,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+527,24,Combination,Straight,Medium,Medium,High,High,Yes,Yes,No,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+528,55,Dry,Wavy,Thin,Low,Low,High,Yes,No,No,Yes,No,No,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Niacinamide, Retinol",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+529,32,Dry,Wavy,Thick,Low,Medium,Medium,No,No,No,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Biotin
+530,57,Normal,Straight,Thin,Medium,Low,Low,Yes,Yes,No,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+531,38,Oily,Straight,Thin,High,High,High,Yes,No,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Collagen
+532,55,Combination,Straight,Thin,High,High,Low,Yes,No,Yes,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Iron
+533,58,Normal,Curly,Thick,Medium,High,High,No,Yes,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+534,40,Normal,Straight,Thin,Low,High,Medium,No,No,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+535,56,Dry,Straight,Thin,Medium,Medium,Low,No,Yes,Yes,No,No,Yes,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Iron
+536,46,Oily,Straight,Thick,Low,High,Medium,No,Yes,No,No,No,Yes,"Fragrance, Silicones, PEGs",Medium,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+537,47,Dry,Curly,Thick,Medium,High,High,Yes,Yes,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+538,45,Dry,Frizzy,Medium,Medium,Low,Medium,Yes,Yes,No,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+539,43,Combination,Curly,Thin,Medium,Medium,Medium,Yes,Yes,No,Yes,Yes,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+540,45,Dry,Wavy,Medium,High,Low,High,Yes,Yes,No,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+541,33,Normal,Frizzy,Thick,High,Low,Low,Yes,Yes,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Collagen
+542,27,Dry,Wavy,Medium,High,High,Low,Yes,No,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+543,21,Combination,Straight,Medium,Low,Low,Low,No,Yes,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+544,32,Normal,Wavy,Thin,High,Medium,Medium,No,Yes,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+545,48,Oily,Frizzy,Medium,Medium,High,Medium,No,Yes,Yes,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+546,52,Oily,Wavy,Thin,High,Low,Medium,No,No,Yes,No,No,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Collagen
+547,53,Combination,Wavy,Thick,Low,Low,Medium,No,Yes,No,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+548,48,Dry,Straight,Medium,Low,Low,Medium,No,No,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Castor Oil, Jojoba Oil",Collagen
+549,35,Oily,Frizzy,Thin,Medium,Low,High,Yes,Yes,Yes,No,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Biotin
+550,34,Normal,Frizzy,Medium,Medium,Low,High,Yes,No,No,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Biotin
+551,51,Normal,Curly,Medium,Medium,High,Low,Yes,No,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Vitamin D
+552,52,Dry,Frizzy,Thin,Medium,Medium,High,No,Yes,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Niacinamide, Retinol",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+553,21,Oily,Frizzy,Medium,Medium,Medium,Medium,Yes,No,Yes,No,No,No,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Niacinamide, Retinol",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+554,53,Combination,Straight,Medium,Low,High,Low,Yes,No,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+555,37,Combination,Frizzy,Thin,Medium,High,High,No,Yes,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+556,34,Normal,Curly,Thin,High,Low,Low,No,No,Yes,No,No,Yes,"Fragrance, Silicones, PEGs",Medium,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+557,28,Dry,Wavy,Thin,Medium,Medium,Medium,Yes,No,Yes,No,No,No,"Sulfates, Parabens, Alcohol",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Iron
+558,36,Oily,Wavy,Thick,Low,Medium,Low,Yes,No,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+559,52,Dry,Wavy,Thick,High,High,Medium,Yes,No,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Sunscreen C,"Collagen, Ceramides",Conditioner Y,"Argan Oil, Biotin",Iron
+560,42,Normal,Straight,Thick,Medium,Medium,High,Yes,No,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+561,60,Oily,Curly,Medium,Medium,High,Medium,Yes,Yes,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+562,28,Combination,Curly,Medium,High,High,Medium,Yes,No,No,No,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Collagen
+563,31,Combination,Frizzy,Thick,Medium,Medium,High,No,No,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Niacinamide, Retinol",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+564,37,Oily,Wavy,Thick,Low,High,High,Yes,No,No,No,Yes,No,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Biotin
+565,46,Oily,Straight,Medium,High,Medium,High,Yes,Yes,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+566,35,Oily,Wavy,Medium,High,Medium,Low,No,No,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Collagen
+567,23,Oily,Frizzy,Thin,Medium,Medium,High,No,No,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Coconut Oil, Keratin",Collagen
+568,28,Combination,Straight,Thin,High,Medium,Low,No,Yes,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Collagen
+569,56,Normal,Straight,Medium,Low,High,Medium,Yes,No,No,No,No,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Niacinamide, Retinol",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+570,25,Normal,Curly,Thick,High,Low,Medium,No,Yes,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Iron
+571,43,Oily,Curly,Medium,High,Medium,High,No,Yes,Yes,Yes,No,No,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+572,27,Dry,Straight,Medium,High,High,High,No,No,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+573,37,Normal,Wavy,Thick,Medium,High,High,Yes,Yes,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Serum B,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Vitamin D
+574,57,Normal,Curly,Thick,High,Medium,Medium,Yes,Yes,Yes,No,No,No,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Collagen
+575,26,Normal,Frizzy,Medium,High,Medium,Low,Yes,No,Yes,Yes,No,Yes,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Biotin
+576,36,Dry,Wavy,Thick,High,Low,High,Yes,No,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Collagen
+577,21,Normal,Frizzy,Thick,Low,High,High,Yes,Yes,No,No,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Vitamin D
+578,44,Oily,Straight,Thick,Medium,Medium,Low,No,No,No,No,No,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Iron
+579,41,Dry,Straight,Thick,High,High,Medium,No,Yes,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",High,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+580,43,Combination,Wavy,Thin,High,Low,Medium,No,No,No,No,No,Yes,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Iron
+581,36,Normal,Wavy,Medium,Medium,Medium,High,Yes,Yes,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+582,44,Oily,Curly,Thin,Low,Low,Low,Yes,No,Yes,Yes,Yes,No,"Sulfates, Parabens, Alcohol",High,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+583,38,Oily,Frizzy,Thin,Medium,Medium,Medium,Yes,No,No,No,Yes,No,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+584,46,Normal,Curly,Medium,High,High,Low,Yes,Yes,No,No,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Collagen
+585,27,Normal,Frizzy,Thin,High,Medium,Low,Yes,Yes,No,No,No,Yes,"Fragrance, Silicones, PEGs",Low,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+586,32,Oily,Wavy,Medium,Medium,Low,Medium,Yes,No,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Vitamin D
+587,32,Dry,Curly,Medium,Low,High,Low,Yes,No,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+588,38,Combination,Straight,Thin,Low,Low,Medium,Yes,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Iron
+589,35,Dry,Frizzy,Thick,Medium,Low,Medium,No,No,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Coconut Oil, Keratin",Iron
+590,52,Dry,Frizzy,Thin,High,Medium,Low,Yes,No,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Iron
+591,41,Normal,Wavy,Medium,High,High,Medium,Yes,Yes,Yes,No,No,Yes,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Vitamin D
+592,59,Oily,Straight,Thick,High,Medium,Medium,Yes,No,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Collagen
+593,41,Oily,Straight,Medium,Medium,Medium,Low,No,No,No,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Collagen
+594,36,Normal,Curly,Medium,High,High,High,No,Yes,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Iron
+595,30,Dry,Wavy,Medium,Low,High,High,No,Yes,No,No,No,Yes,"Artificial Dyes, Formaldehyde",High,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Biotin
+596,44,Combination,Wavy,Thick,Low,High,High,Yes,No,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+597,35,Combination,Wavy,Thin,Medium,High,Medium,No,No,Yes,No,No,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Aloe Vera, Shea Butter",Collagen
+598,46,Normal,Wavy,Thin,Medium,Low,High,No,Yes,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Castor Oil, Jojoba Oil",Iron
+599,44,Combination,Curly,Thin,High,High,High,No,Yes,Yes,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+600,58,Normal,Wavy,Thin,Low,Medium,High,Yes,Yes,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+601,31,Dry,Frizzy,Thin,Medium,Medium,Medium,Yes,Yes,Yes,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Niacinamide, Retinol",Scalp Treatment W,"Coconut Oil, Keratin",Iron
+602,38,Dry,Curly,Thick,Low,Low,Low,No,No,Yes,No,No,No,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Iron
+603,45,Normal,Frizzy,Thin,High,Medium,Low,No,Yes,No,No,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+604,31,Combination,Curly,Thin,Low,Medium,High,Yes,No,No,Yes,No,No,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Niacinamide, Retinol",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+605,34,Oily,Frizzy,Thick,Low,Low,High,Yes,No,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+606,60,Dry,Frizzy,Thick,Medium,High,Medium,Yes,No,No,Yes,Yes,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+607,28,Normal,Curly,Medium,Medium,High,High,Yes,Yes,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",Low,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Vitamin D
+608,33,Dry,Frizzy,Medium,Medium,Medium,Low,No,Yes,Yes,No,No,No,"Sulfates, Parabens, Alcohol",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Castor Oil, Jojoba Oil",Iron
+609,26,Dry,Straight,Medium,Low,Low,High,Yes,No,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Niacinamide, Retinol",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+610,30,Oily,Frizzy,Thin,Low,Medium,Low,No,Yes,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",High,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Iron
+611,48,Oily,Frizzy,Thick,High,Medium,High,Yes,Yes,Yes,No,No,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Castor Oil, Jojoba Oil",Biotin
+612,25,Dry,Curly,Thick,Low,Medium,Low,Yes,No,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Biotin
+613,55,Normal,Straight,Thin,Medium,Medium,Medium,No,No,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+614,29,Normal,Frizzy,Medium,Low,High,Low,Yes,Yes,No,No,Yes,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+615,20,Oily,Frizzy,Thick,Medium,Low,Medium,No,No,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+616,28,Dry,Frizzy,Thin,Medium,Low,High,Yes,Yes,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Niacinamide, Retinol",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+617,29,Oily,Straight,Thin,Medium,High,Low,Yes,Yes,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Biotin
+618,20,Oily,Frizzy,Medium,High,Low,Low,No,No,No,No,Yes,No,"Artificial Dyes, Formaldehyde",High,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Iron
+619,25,Oily,Frizzy,Thick,Medium,High,Medium,No,No,No,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Iron
+620,42,Oily,Wavy,Medium,High,Medium,High,No,No,No,No,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Serum B,"Collagen, Ceramides",Conditioner Y,"Argan Oil, Biotin",Biotin
+621,45,Oily,Frizzy,Thick,Low,High,High,Yes,Yes,Yes,Yes,No,No,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Biotin
+622,29,Combination,Curly,Thick,High,Medium,Medium,Yes,Yes,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Biotin
+623,21,Dry,Frizzy,Medium,Medium,High,Medium,Yes,Yes,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+624,33,Combination,Curly,Thin,Low,Low,High,Yes,No,No,No,Yes,No,"Fragrance, Silicones, PEGs",High,Serum B,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Iron
+625,18,Dry,Wavy,Medium,Low,High,Medium,Yes,No,No,No,No,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+626,33,Oily,Frizzy,Thin,Low,Medium,Medium,No,No,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+627,19,Normal,Straight,Thin,High,Medium,Low,Yes,No,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+628,44,Oily,Wavy,Thick,High,Low,Medium,Yes,Yes,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Vitamin D
+629,55,Combination,Wavy,Thin,High,High,High,No,Yes,No,No,No,No,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Biotin
+630,39,Combination,Frizzy,Medium,High,Medium,Low,No,Yes,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+631,31,Oily,Frizzy,Medium,Medium,High,High,No,No,No,Yes,No,No,"Artificial Dyes, Formaldehyde",High,Sunscreen C,"Niacinamide, Retinol",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+632,21,Oily,Frizzy,Thin,High,Medium,Medium,No,Yes,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Iron
+633,24,Normal,Curly,Thin,Low,Medium,Low,No,No,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+634,23,Combination,Straight,Thin,Low,Low,High,Yes,No,No,No,No,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Iron
+635,60,Dry,Straight,Thick,Medium,High,Medium,Yes,No,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Castor Oil, Jojoba Oil",Iron
+636,37,Dry,Curly,Thick,High,Medium,Low,Yes,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Castor Oil, Jojoba Oil",Collagen
+637,40,Dry,Frizzy,Medium,High,Medium,Medium,Yes,No,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Collagen
+638,42,Combination,Straight,Thick,High,Low,High,No,No,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Biotin
+639,31,Normal,Curly,Thick,Medium,High,Medium,No,Yes,No,No,No,Yes,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+640,39,Oily,Curly,Medium,Medium,Medium,Low,Yes,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+641,49,Normal,Wavy,Medium,Low,High,Low,No,No,No,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Niacinamide, Retinol",Shampoo X,"Coconut Oil, Keratin",Vitamin D
+642,38,Dry,Straight,Medium,High,Low,Low,Yes,Yes,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+643,45,Normal,Frizzy,Thick,High,Medium,Low,No,No,Yes,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+644,42,Dry,Frizzy,Medium,High,Low,Low,Yes,Yes,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Collagen
+645,25,Dry,Curly,Medium,High,Medium,Low,Yes,Yes,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Iron
+646,37,Dry,Curly,Medium,Medium,Medium,Medium,Yes,Yes,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",High,Sunscreen C,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Collagen
+647,22,Dry,Curly,Thin,High,Low,Low,No,No,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Iron
+648,24,Normal,Curly,Medium,Medium,Low,Medium,Yes,No,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+649,41,Combination,Frizzy,Medium,Low,Low,Low,Yes,No,Yes,Yes,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Collagen
+650,52,Dry,Wavy,Thin,Low,High,Low,Yes,Yes,Yes,No,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+651,52,Dry,Straight,Thin,High,High,High,Yes,No,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Biotin
+652,53,Normal,Straight,Thick,Medium,Low,Medium,Yes,Yes,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+653,50,Combination,Frizzy,Thick,Medium,Medium,Low,Yes,No,Yes,Yes,Yes,No,"Sulfates, Parabens, Alcohol",High,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+654,52,Normal,Straight,Thick,High,Low,Low,Yes,No,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Collagen
+655,37,Normal,Curly,Medium,Low,High,Low,No,No,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Vitamin D
+656,42,Combination,Curly,Thick,Medium,Low,Medium,Yes,No,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+657,46,Normal,Straight,Thin,Low,Medium,Medium,No,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Iron
+658,47,Oily,Straight,Medium,High,High,Low,Yes,Yes,Yes,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Niacinamide, Retinol",Shampoo X,"Castor Oil, Jojoba Oil",Iron
+659,34,Normal,Curly,Thin,Low,Medium,Medium,No,Yes,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Medium,Serum B,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+660,39,Normal,Curly,Medium,High,Medium,Medium,No,No,Yes,No,No,No,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Iron
+661,31,Combination,Wavy,Thick,Medium,High,High,Yes,No,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+662,45,Oily,Straight,Thin,Medium,Low,Low,No,Yes,No,Yes,No,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Collagen
+663,55,Normal,Frizzy,Medium,Medium,Low,Medium,Yes,Yes,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Vitamin D
+664,59,Normal,Wavy,Thin,Low,High,High,Yes,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Vitamin D
+665,34,Normal,Curly,Thick,High,Low,Medium,Yes,No,No,No,No,Yes,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+666,35,Normal,Wavy,Thick,Medium,High,High,No,No,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Iron
+667,40,Dry,Wavy,Medium,High,Low,Low,No,No,No,No,Yes,No,"Fragrance, Silicones, PEGs",Low,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+668,52,Normal,Straight,Medium,Medium,High,Medium,No,Yes,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+669,19,Normal,Wavy,Thick,High,High,Low,No,Yes,No,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+670,28,Oily,Frizzy,Medium,High,Medium,Medium,No,No,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Collagen
+671,20,Combination,Curly,Medium,Medium,Low,Low,Yes,No,No,Yes,No,No,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Coconut Oil, Keratin",Iron
+672,19,Oily,Wavy,Medium,Medium,Medium,Medium,No,No,Yes,No,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+673,53,Combination,Straight,Medium,High,High,Medium,Yes,No,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Iron
+674,42,Combination,Frizzy,Thin,High,Low,Medium,Yes,No,Yes,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Serum B,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Collagen
+675,35,Normal,Straight,Thin,Medium,Medium,Low,Yes,No,Yes,Yes,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+676,53,Oily,Curly,Thick,Low,High,High,No,No,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+677,54,Normal,Wavy,Thin,High,High,High,Yes,Yes,No,No,No,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Niacinamide, Retinol",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+678,35,Normal,Wavy,Thick,Medium,Low,High,No,No,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Niacinamide, Retinol",Conditioner Y,"Coconut Oil, Keratin",Biotin
+679,45,Normal,Straight,Thin,Low,Medium,High,Yes,No,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+680,40,Oily,Wavy,Thick,High,High,High,Yes,Yes,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Castor Oil, Jojoba Oil",Iron
+681,25,Combination,Frizzy,Thin,High,Low,High,Yes,Yes,No,No,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+682,57,Combination,Straight,Thick,High,High,Low,Yes,Yes,No,No,No,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+683,18,Combination,Straight,Thin,Medium,Low,Medium,Yes,No,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Biotin
+684,38,Oily,Curly,Thick,Medium,Low,Medium,No,No,No,No,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Iron
+685,49,Normal,Curly,Medium,Low,Low,Medium,No,No,No,Yes,No,No,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+686,45,Dry,Straight,Thick,High,High,Low,No,Yes,No,No,No,Yes,"Artificial Dyes, Formaldehyde",High,Serum B,"Hyaluronic Acid, Vitamin C",Shampoo X,"Coconut Oil, Keratin",Vitamin D
+687,48,Dry,Curly,Medium,Low,High,Low,No,No,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Iron
+688,19,Combination,Frizzy,Medium,Medium,Low,Low,No,Yes,No,No,No,No,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Niacinamide, Retinol",Scalp Treatment W,"Argan Oil, Biotin",Iron
+689,43,Normal,Straight,Thick,Medium,Low,Medium,Yes,Yes,No,No,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+690,46,Dry,Straight,Thick,Medium,Low,Low,No,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",Low,Serum B,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+691,25,Normal,Frizzy,Thin,Low,Low,Low,Yes,Yes,Yes,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Coconut Oil, Keratin",Iron
+692,29,Normal,Frizzy,Thick,Medium,Low,High,Yes,No,No,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Iron
+693,21,Combination,Wavy,Thin,Medium,Low,High,Yes,No,No,Yes,Yes,No,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+694,57,Dry,Curly,Thin,Low,Medium,Low,Yes,Yes,Yes,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Coconut Oil, Keratin",Collagen
+695,19,Dry,Curly,Thick,Medium,High,High,No,Yes,Yes,Yes,No,No,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Collagen
+696,51,Combination,Frizzy,Medium,Medium,Low,Medium,Yes,No,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Niacinamide, Retinol",Scalp Treatment W,"Coconut Oil, Keratin",Iron
+697,42,Oily,Wavy,Thin,High,Low,Medium,No,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+698,24,Oily,Wavy,Thin,Medium,Medium,Low,Yes,No,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+699,46,Normal,Frizzy,Thin,Medium,High,High,Yes,Yes,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Iron
+700,48,Normal,Frizzy,Medium,High,Medium,High,No,No,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Biotin
+701,57,Combination,Frizzy,Medium,Low,High,High,No,Yes,No,No,No,No,"Artificial Dyes, Formaldehyde",Low,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Biotin
+702,42,Oily,Wavy,Medium,High,Low,Medium,Yes,No,Yes,No,No,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Biotin
+703,57,Oily,Frizzy,Thick,Medium,High,Medium,Yes,Yes,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+704,47,Normal,Straight,Thick,High,Low,Low,Yes,Yes,No,No,No,No,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Collagen
+705,32,Dry,Frizzy,Medium,High,Medium,Low,No,Yes,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Niacinamide, Retinol",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+706,39,Dry,Straight,Thick,High,Low,Medium,Yes,Yes,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Iron
+707,26,Oily,Curly,Thick,High,High,Medium,No,Yes,No,Yes,No,No,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+708,43,Normal,Curly,Medium,Low,High,High,Yes,Yes,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Iron
+709,46,Dry,Curly,Medium,Low,Medium,Low,Yes,No,No,No,Yes,No,"Fragrance, Silicones, PEGs",High,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+710,30,Combination,Wavy,Thick,Low,Low,Medium,Yes,Yes,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+711,51,Normal,Curly,Medium,Low,High,High,No,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Biotin
+712,30,Normal,Wavy,Thick,Low,High,Low,No,Yes,No,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Coconut Oil, Keratin",Biotin
+713,21,Dry,Wavy,Medium,Low,High,Medium,No,Yes,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",High,Serum B,"Niacinamide, Retinol",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+714,28,Combination,Curly,Thick,Low,Low,High,No,Yes,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+715,52,Dry,Straight,Thin,High,Low,Low,No,Yes,No,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Iron
+716,36,Dry,Curly,Thin,High,High,High,Yes,No,No,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+717,38,Oily,Curly,Thick,High,Medium,Low,Yes,No,No,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Sunscreen C,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Iron
+718,33,Dry,Wavy,Thick,Low,Medium,Low,No,No,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+719,55,Combination,Frizzy,Thin,Medium,Low,Low,Yes,No,Yes,Yes,Yes,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Biotin
+720,59,Combination,Curly,Medium,Low,High,Low,Yes,Yes,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+721,55,Combination,Wavy,Medium,High,Low,High,Yes,No,Yes,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Niacinamide, Retinol",Scalp Treatment W,"Coconut Oil, Keratin",Iron
+722,59,Combination,Wavy,Thin,High,High,High,No,Yes,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Collagen, Ceramides",Conditioner Y,"Argan Oil, Biotin",Collagen
+723,42,Dry,Straight,Thin,Low,Medium,High,No,No,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Iron
+724,41,Oily,Frizzy,Thick,Low,High,Low,Yes,Yes,Yes,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",High,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Collagen
+725,56,Dry,Straight,Thick,High,Medium,Medium,No,Yes,No,No,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Biotin
+726,54,Normal,Curly,Thick,Medium,High,Medium,No,No,No,No,Yes,No,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Collagen
+727,59,Oily,Curly,Medium,High,High,Low,No,Yes,No,Yes,No,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+728,18,Dry,Frizzy,Thick,Medium,High,High,Yes,No,Yes,No,No,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Shampoo X,"Coconut Oil, Keratin",Vitamin D
+729,46,Dry,Curly,Thin,Medium,High,Medium,Yes,No,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Low,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+730,58,Dry,Curly,Thick,Low,Low,Medium,No,Yes,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+731,27,Oily,Straight,Thin,Medium,Low,Medium,No,Yes,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+732,57,Combination,Curly,Thin,Medium,Medium,High,No,No,No,No,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Iron
+733,32,Oily,Frizzy,Thin,Low,Low,High,Yes,No,No,No,Yes,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Collagen, Ceramides",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+734,57,Combination,Curly,Thick,Low,Medium,High,Yes,Yes,No,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+735,41,Combination,Straight,Thin,Low,High,High,Yes,Yes,Yes,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Collagen, Ceramides",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+736,32,Normal,Frizzy,Thick,Medium,High,High,Yes,Yes,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+737,48,Oily,Straight,Medium,Medium,Low,High,No,No,Yes,No,No,No,"Fragrance, Silicones, PEGs",High,Serum B,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+738,51,Normal,Straight,Thick,High,Low,Medium,Yes,No,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+739,41,Oily,Wavy,Medium,High,Medium,Medium,No,No,No,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Collagen, Ceramides",Conditioner Y,"Argan Oil, Biotin",Iron
+740,49,Oily,Straight,Medium,High,Medium,Medium,Yes,No,Yes,No,No,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+741,18,Combination,Straight,Thick,Medium,Low,High,No,Yes,No,No,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Biotin
+742,40,Normal,Straight,Thick,Medium,Low,Low,No,Yes,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Biotin
+743,43,Oily,Wavy,Thick,Low,High,Medium,Yes,Yes,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Iron
+744,49,Combination,Curly,Thick,High,Medium,Low,No,No,Yes,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Vitamin D
+745,40,Normal,Wavy,Thin,Low,Low,Low,No,No,No,No,No,Yes,"Fragrance, Silicones, PEGs",High,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Collagen
+746,24,Normal,Frizzy,Medium,Low,Medium,Medium,Yes,No,Yes,Yes,No,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Biotin
+747,25,Dry,Frizzy,Thick,High,Low,High,No,No,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+748,25,Oily,Straight,Medium,Medium,High,Medium,No,No,Yes,No,No,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Collagen
+749,55,Normal,Wavy,Thick,High,Medium,Medium,Yes,Yes,No,No,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Niacinamide, Retinol",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+750,42,Dry,Curly,Thin,High,High,Low,Yes,Yes,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Vitamin D
+751,52,Normal,Frizzy,Medium,Low,Low,Medium,Yes,Yes,Yes,No,No,No,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+752,32,Oily,Frizzy,Thin,High,High,Low,No,Yes,No,No,Yes,No,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+753,37,Dry,Frizzy,Thick,Medium,Low,High,Yes,Yes,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Niacinamide, Retinol",Conditioner Y,"Argan Oil, Biotin",Iron
+754,57,Dry,Straight,Thin,High,High,Low,No,No,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Biotin
+755,20,Normal,Wavy,Medium,Low,Low,High,No,No,No,No,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Castor Oil, Jojoba Oil",Biotin
+756,50,Dry,Wavy,Thick,High,Low,Medium,Yes,Yes,No,No,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Niacinamide, Retinol",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+757,51,Dry,Straight,Thick,High,High,Medium,Yes,No,Yes,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+758,46,Combination,Straight,Thick,Low,High,Low,No,Yes,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+759,35,Normal,Straight,Thin,High,High,Low,No,Yes,No,Yes,Yes,No,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+760,59,Normal,Straight,Medium,High,High,High,No,No,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Niacinamide, Retinol",Conditioner Y,"Coconut Oil, Keratin",Biotin
+761,44,Normal,Straight,Thin,Medium,Medium,Medium,Yes,No,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+762,59,Dry,Wavy,Thin,Low,High,Low,Yes,Yes,No,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Vitamin D
+763,40,Oily,Frizzy,Medium,High,Low,High,Yes,No,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+764,29,Dry,Frizzy,Thick,Low,Medium,Low,Yes,No,No,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Niacinamide, Retinol",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+765,23,Dry,Wavy,Medium,Low,Low,Low,Yes,Yes,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Biotin
+766,49,Dry,Curly,Medium,High,High,Low,No,Yes,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+767,55,Dry,Straight,Medium,Medium,Medium,Medium,No,No,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Collagen
+768,20,Combination,Straight,Thin,High,High,Medium,Yes,No,No,No,No,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Biotin
+769,60,Combination,Straight,Thick,High,High,High,Yes,Yes,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+770,54,Combination,Wavy,Medium,Medium,Medium,Medium,No,No,No,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Biotin
+771,37,Combination,Wavy,Thick,Medium,Low,High,Yes,Yes,No,No,Yes,No,"Fragrance, Silicones, PEGs",Medium,Serum B,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Vitamin D
+772,40,Dry,Curly,Medium,High,High,High,No,No,Yes,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Coconut Oil, Keratin",Collagen
+773,43,Normal,Frizzy,Thick,Low,High,Medium,No,No,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Iron
+774,18,Combination,Frizzy,Thick,Low,High,Medium,Yes,No,No,No,No,No,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Collagen
+775,30,Normal,Curly,Thick,High,Low,Low,No,No,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+776,32,Dry,Wavy,Thin,Low,Medium,Medium,No,No,No,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+777,44,Combination,Straight,Thick,High,High,Low,No,No,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Iron
+778,42,Oily,Curly,Medium,Medium,High,Low,Yes,No,Yes,No,No,Yes,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Iron
+779,50,Normal,Wavy,Medium,High,Medium,Medium,Yes,No,Yes,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Coconut Oil, Keratin",Vitamin D
+780,31,Oily,Wavy,Medium,High,Medium,Medium,No,Yes,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Iron
+781,38,Normal,Curly,Thin,Medium,High,High,Yes,Yes,Yes,No,No,Yes,"Sulfates, Parabens, Alcohol",Low,Serum B,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+782,32,Combination,Straight,Medium,Medium,High,Medium,No,No,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Collagen, Ceramides",Conditioner Y,"Argan Oil, Biotin",Vitamin D
+783,57,Combination,Curly,Thick,Medium,High,Low,No,No,No,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+784,28,Normal,Straight,Thick,High,Medium,Medium,No,No,Yes,No,No,No,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+785,34,Oily,Curly,Thin,Low,Medium,Low,Yes,No,No,No,No,No,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Collagen
+786,47,Combination,Curly,Thin,High,Low,Low,No,No,Yes,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Castor Oil, Jojoba Oil",Iron
+787,45,Normal,Frizzy,Thin,High,Medium,Low,Yes,Yes,No,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Iron
+788,59,Dry,Curly,Medium,High,Low,High,Yes,Yes,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Coconut Oil, Keratin",Iron
+789,57,Dry,Curly,Thick,Low,Low,Low,Yes,Yes,No,Yes,No,No,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Collagen
+790,19,Combination,Curly,Medium,Medium,Medium,High,Yes,Yes,No,Yes,Yes,No,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Niacinamide, Retinol",Conditioner Y,"Argan Oil, Biotin",Biotin
+791,58,Normal,Straight,Medium,Medium,High,Low,No,No,No,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Iron
+792,43,Combination,Curly,Thick,Low,Low,High,Yes,Yes,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Collagen
+793,30,Dry,Frizzy,Thin,High,Medium,Medium,Yes,Yes,No,No,Yes,No,"Fragrance, Silicones, PEGs",Medium,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+794,34,Combination,Frizzy,Medium,Medium,High,High,Yes,Yes,Yes,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+795,53,Dry,Curly,Thin,High,High,High,No,No,No,No,Yes,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Aloe Vera, Shea Butter",Vitamin D
+796,35,Dry,Straight,Thick,Low,High,Medium,Yes,No,Yes,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Niacinamide, Retinol",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+797,50,Oily,Straight,Medium,Low,Low,High,Yes,Yes,Yes,No,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Castor Oil, Jojoba Oil",Biotin
+798,56,Normal,Wavy,Medium,Low,Medium,High,No,Yes,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+799,38,Oily,Frizzy,Thin,High,Low,Medium,Yes,No,Yes,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+800,53,Dry,Frizzy,Thick,Low,Medium,Medium,No,No,No,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Collagen
+801,46,Combination,Frizzy,Thick,Medium,Medium,High,Yes,No,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+802,18,Combination,Curly,Thick,High,Low,High,No,No,No,No,No,No,"Fragrance, Silicones, PEGs",High,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+803,21,Combination,Wavy,Thick,Medium,Low,High,No,Yes,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+804,29,Oily,Frizzy,Thin,Low,High,High,No,Yes,No,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Iron
+805,32,Combination,Frizzy,Thin,High,Medium,Medium,Yes,No,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Niacinamide, Retinol",Scalp Treatment W,"Castor Oil, Jojoba Oil",Collagen
+806,57,Combination,Frizzy,Medium,Medium,Low,Low,No,No,No,No,Yes,No,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Coconut Oil, Keratin",Iron
+807,31,Oily,Frizzy,Thin,Low,Medium,Medium,Yes,No,No,Yes,No,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Aloe Vera, Shea Butter",Vitamin D
+808,19,Dry,Curly,Thin,High,High,Low,No,No,No,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Collagen
+809,39,Normal,Straight,Thick,Low,Low,High,No,Yes,No,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+810,42,Oily,Frizzy,Thin,Medium,Medium,Low,No,No,No,No,No,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+811,39,Dry,Straight,Thin,Low,Low,Medium,No,Yes,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+812,57,Oily,Curly,Thin,Low,Low,Medium,No,Yes,Yes,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Biotin
+813,36,Combination,Wavy,Medium,Medium,High,High,No,No,Yes,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Biotin
+814,35,Combination,Curly,Medium,Low,Low,Low,No,No,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",High,Serum B,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+815,35,Combination,Curly,Medium,Low,Medium,High,No,No,No,No,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Serum B,"Niacinamide, Retinol",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+816,51,Dry,Wavy,Thick,Low,High,High,No,Yes,No,Yes,No,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Iron
+817,56,Dry,Curly,Thick,Medium,Low,High,No,Yes,Yes,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Vitamin D
+818,56,Combination,Curly,Thin,Medium,Low,High,Yes,Yes,No,Yes,Yes,No,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+819,59,Oily,Frizzy,Thick,Medium,High,Medium,Yes,No,Yes,No,No,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+820,39,Combination,Frizzy,Medium,High,Low,Low,Yes,No,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Iron
+821,34,Oily,Straight,Medium,Low,Low,Low,Yes,Yes,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Vitamin D
+822,53,Oily,Curly,Thin,High,High,High,No,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Collagen, Ceramides",Scalp Treatment W,"Coconut Oil, Keratin",Iron
+823,26,Combination,Straight,Thin,High,Medium,Low,Yes,Yes,No,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+824,45,Combination,Wavy,Thin,Low,Low,High,No,No,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+825,56,Combination,Straight,Thick,Low,Low,Low,Yes,No,Yes,Yes,No,Yes,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Vitamin D
+826,46,Normal,Frizzy,Thin,High,Medium,Low,No,Yes,No,No,No,Yes,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+827,33,Oily,Straight,Medium,High,High,Medium,Yes,Yes,No,Yes,Yes,No,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Iron
+828,52,Dry,Curly,Medium,High,High,Low,Yes,No,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Iron
+829,46,Oily,Frizzy,Thick,Medium,Low,High,No,No,No,No,No,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+830,56,Normal,Straight,Thin,High,Low,High,No,Yes,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+831,45,Dry,Frizzy,Medium,High,Medium,Low,No,No,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+832,37,Dry,Curly,Thick,Medium,Low,High,No,Yes,No,No,No,Yes,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Iron
+833,39,Oily,Wavy,Thin,Low,High,High,No,No,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Iron
+834,22,Combination,Wavy,Medium,Medium,High,Low,No,No,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Iron
+835,48,Oily,Straight,Thin,Low,Medium,High,No,No,Yes,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Biotin
+836,45,Oily,Curly,Medium,Medium,Low,Medium,Yes,Yes,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Vitamin D
+837,18,Dry,Frizzy,Medium,High,High,High,No,No,Yes,No,No,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Niacinamide, Retinol",Shampoo X,"Coconut Oil, Keratin",Vitamin D
+838,39,Dry,Straight,Thick,Low,High,Medium,No,Yes,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Collagen
+839,24,Combination,Frizzy,Medium,High,Low,High,Yes,No,No,No,No,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Coconut Oil, Keratin",Collagen
+840,32,Dry,Frizzy,Thin,Medium,Medium,Medium,No,No,Yes,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Iron
+841,59,Oily,Wavy,Medium,Low,Medium,Medium,Yes,Yes,Yes,Yes,Yes,No,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Castor Oil, Jojoba Oil",Iron
+842,51,Dry,Curly,Thick,High,Low,High,Yes,No,Yes,No,No,No,"Sulfates, Parabens, Alcohol",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+843,25,Oily,Wavy,Medium,Medium,Low,Medium,Yes,No,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Niacinamide, Retinol",Scalp Treatment W,"Coconut Oil, Keratin",Collagen
+844,26,Combination,Straight,Medium,High,High,Medium,No,Yes,No,No,Yes,No,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Biotin
+845,38,Dry,Wavy,Thick,High,Medium,High,No,No,Yes,No,No,No,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Biotin
+846,33,Combination,Straight,Thin,Low,Low,High,Yes,No,Yes,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+847,60,Dry,Curly,Thin,Low,Low,High,Yes,No,No,No,No,No,"Artificial Dyes, Formaldehyde",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Coconut Oil, Keratin",Iron
+848,30,Normal,Frizzy,Thick,High,Medium,Medium,Yes,Yes,No,No,No,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Castor Oil, Jojoba Oil",Biotin
+849,52,Combination,Wavy,Thick,Low,High,Low,Yes,No,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Serum B,"Collagen, Ceramides",Conditioner Y,"Coconut Oil, Keratin",Collagen
+850,38,Combination,Curly,Thick,Low,Low,Low,Yes,No,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Coconut Oil, Keratin",Biotin
+851,18,Dry,Frizzy,Thin,Medium,High,Low,Yes,No,No,No,No,No,"Sulfates, Parabens, Alcohol",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+852,40,Combination,Wavy,Thin,Medium,High,Low,Yes,No,No,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Collagen
+853,31,Dry,Curly,Thick,Low,Low,Low,No,No,Yes,Yes,Yes,No,"Artificial Dyes, Formaldehyde",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Coconut Oil, Keratin",Iron
+854,50,Combination,Curly,Medium,Low,High,Low,No,No,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",High,Serum B,"Collagen, Ceramides",Conditioner Y,"Aloe Vera, Shea Butter",Biotin
+855,29,Oily,Wavy,Thin,Medium,Medium,Medium,Yes,Yes,No,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Biotin
+856,20,Oily,Wavy,Thin,Medium,Medium,Medium,No,No,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Aloe Vera, Shea Butter",Iron
+857,57,Dry,Curly,Thin,Low,High,Medium,No,Yes,No,No,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Collagen
+858,31,Normal,Straight,Medium,High,Medium,Medium,No,Yes,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Aloe Vera, Shea Butter",Iron
+859,56,Normal,Straight,Medium,High,Medium,Medium,Yes,No,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Niacinamide, Retinol",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+860,33,Oily,Straight,Thin,Low,Low,Medium,Yes,No,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+861,25,Oily,Wavy,Thin,Low,High,High,No,Yes,No,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Biotin
+862,24,Normal,Frizzy,Thick,Medium,Low,Low,Yes,Yes,Yes,Yes,Yes,No,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+863,33,Normal,Frizzy,Thick,Medium,Medium,Medium,No,Yes,Yes,No,No,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Iron
+864,55,Oily,Frizzy,Thick,Low,High,Medium,No,No,No,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Collagen
+865,36,Combination,Straight,Medium,Medium,High,High,No,No,No,No,Yes,Yes,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Coconut Oil, Keratin",Collagen
+866,34,Combination,Straight,Thick,High,High,High,Yes,Yes,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+867,22,Dry,Wavy,Medium,High,Low,Low,Yes,No,No,Yes,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+868,54,Normal,Straight,Medium,High,Low,Medium,No,Yes,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Iron
+869,53,Normal,Frizzy,Medium,Low,Medium,Low,No,Yes,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+870,49,Normal,Frizzy,Medium,Low,Medium,Medium,Yes,No,Yes,Yes,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Serum B,"Niacinamide, Retinol",Hair Oil Z,"Argan Oil, Biotin",Iron
+871,55,Combination,Straight,Thin,Medium,Low,Medium,Yes,No,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+872,18,Normal,Straight,Thin,Low,High,High,Yes,Yes,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",Low,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Biotin
+873,59,Dry,Straight,Thick,Medium,Low,Low,Yes,Yes,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Moisturizer A,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Iron
+874,25,Dry,Wavy,Medium,Medium,Low,Medium,No,Yes,No,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+875,29,Normal,Curly,Thin,Low,Low,Low,Yes,No,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Biotin
+876,60,Combination,Curly,Thick,Low,High,High,No,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Iron
+877,48,Dry,Wavy,Medium,Low,Low,High,No,No,Yes,No,No,Yes,"Fragrance, Silicones, PEGs",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+878,53,Dry,Wavy,Medium,High,High,Medium,No,Yes,No,Yes,No,No,"Fragrance, Silicones, PEGs",High,Serum B,"Hyaluronic Acid, Vitamin C",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+879,30,Dry,Straight,Thin,High,High,Medium,No,No,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+880,60,Combination,Curly,Thick,High,Medium,Low,Yes,No,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Collagen
+881,42,Normal,Wavy,Thin,High,High,High,No,Yes,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+882,48,Normal,Frizzy,Thick,Medium,High,Medium,No,Yes,No,Yes,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Niacinamide, Retinol",Shampoo X,"Coconut Oil, Keratin",Biotin
+883,35,Dry,Frizzy,Thin,Low,Low,High,No,No,Yes,No,No,Yes,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Niacinamide, Retinol",Hair Oil Z,"Aloe Vera, Shea Butter",Biotin
+884,29,Dry,Wavy,Medium,Low,Low,Medium,No,Yes,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+885,45,Oily,Wavy,Medium,Low,High,Medium,No,Yes,Yes,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Iron
+886,46,Oily,Straight,Medium,High,Low,High,No,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Moisturizer A,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+887,54,Dry,Wavy,Medium,Medium,Medium,Medium,Yes,Yes,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Vitamin D
+888,36,Combination,Curly,Thin,Medium,High,Low,No,No,No,Yes,No,No,"Artificial Dyes, Formaldehyde",High,Serum B,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Collagen
+889,55,Combination,Straight,Thick,Medium,Medium,Low,No,No,No,Yes,No,No,"Artificial Dyes, Formaldehyde",Low,Face Wash D,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Biotin
+890,55,Oily,Frizzy,Thin,High,Low,Medium,No,No,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Niacinamide, Retinol",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+891,35,Oily,Frizzy,Thick,Low,Medium,Low,No,Yes,Yes,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+892,40,Oily,Straight,Thin,Medium,Medium,Low,No,Yes,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Niacinamide, Retinol",Scalp Treatment W,"Aloe Vera, Shea Butter",Vitamin D
+893,25,Dry,Straight,Thin,High,Medium,Low,Yes,No,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+894,43,Dry,Wavy,Thin,High,High,Low,No,No,No,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+895,54,Normal,Wavy,Thick,High,Low,Low,No,No,Yes,Yes,No,Yes,"Fragrance, Silicones, PEGs",Medium,Moisturizer A,"Niacinamide, Retinol",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+896,22,Dry,Straight,Thick,Medium,Medium,High,Yes,Yes,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Collagen
+897,24,Combination,Curly,Thin,Low,Medium,High,Yes,No,Yes,No,No,No,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Iron
+898,31,Normal,Wavy,Thick,Medium,Medium,Low,Yes,Yes,No,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Hair Oil Z,"Argan Oil, Biotin",Biotin
+899,49,Oily,Wavy,Medium,High,Low,Medium,No,Yes,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",High,Moisturizer A,"Niacinamide, Retinol",Scalp Treatment W,"Coconut Oil, Keratin",Biotin
+900,23,Dry,Straight,Thick,High,Medium,High,Yes,No,Yes,No,No,No,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+901,40,Oily,Wavy,Thin,Medium,Low,Medium,No,No,No,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+902,48,Oily,Wavy,Medium,Medium,Low,High,Yes,No,No,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Biotin
+903,42,Oily,Frizzy,Thin,Low,Medium,Low,Yes,Yes,Yes,No,No,Yes,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Collagen
+904,55,Normal,Wavy,Medium,High,Medium,Low,Yes,No,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Shampoo X,"Coconut Oil, Keratin",Biotin
+905,58,Oily,Curly,Thin,Medium,Low,Low,No,Yes,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Biotin
+906,50,Oily,Frizzy,Thin,Low,High,High,Yes,Yes,No,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Coconut Oil, Keratin",Iron
+907,52,Combination,Curly,Thick,Low,High,Medium,No,Yes,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Aloe Vera, Shea Butter",Biotin
+908,54,Normal,Frizzy,Medium,Medium,High,High,No,Yes,Yes,Yes,Yes,No,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Iron
+909,29,Normal,Curly,Medium,High,Low,High,No,No,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Collagen
+910,57,Normal,Frizzy,Medium,Low,Low,Medium,No,Yes,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Vitamin D
+911,56,Normal,Curly,Thin,Low,High,Medium,No,No,Yes,Yes,No,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Collagen, Ceramides",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+912,28,Combination,Frizzy,Thick,High,Low,Medium,No,No,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Biotin
+913,23,Dry,Curly,Thin,Medium,Low,Medium,Yes,No,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Biotin
+914,58,Oily,Curly,Medium,High,Medium,Low,Yes,Yes,No,No,Yes,No,"Sulfates, Parabens, Alcohol",Medium,Sunscreen C,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Collagen
+915,36,Oily,Frizzy,Thick,Medium,Medium,High,Yes,Yes,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Coconut Oil, Keratin",Vitamin D
+916,54,Dry,Straight,Medium,High,High,Low,No,No,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+917,57,Normal,Curly,Medium,Low,High,Low,Yes,No,No,No,No,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+918,53,Combination,Curly,Thick,Medium,Low,Medium,Yes,Yes,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+919,46,Dry,Straight,Thin,High,High,Low,Yes,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",High,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Argan Oil, Biotin",Biotin
+920,20,Combination,Wavy,Thin,High,High,Medium,Yes,Yes,No,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Collagen
+921,31,Combination,Wavy,Thick,Medium,High,High,No,No,No,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+922,41,Combination,Straight,Medium,Medium,Medium,Low,Yes,Yes,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",Low,Serum B,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+923,21,Combination,Straight,Thin,Medium,Low,High,No,No,Yes,Yes,No,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Niacinamide, Retinol",Scalp Treatment W,"Argan Oil, Biotin",Iron
+924,46,Oily,Wavy,Thin,High,High,Low,Yes,No,No,No,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Biotin
+925,48,Oily,Straight,Thin,Medium,High,High,No,No,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+926,29,Oily,Straight,Medium,High,Low,High,No,Yes,Yes,No,No,Yes,"Sulfates, Parabens, Alcohol",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Iron
+927,46,Combination,Frizzy,Thin,Medium,Medium,Medium,Yes,No,No,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Collagen
+928,41,Normal,Wavy,Medium,High,Medium,High,No,Yes,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Vitamin D
+929,22,Dry,Straight,Medium,High,Low,Low,No,Yes,Yes,No,No,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Collagen, Ceramides",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+930,20,Oily,Wavy,Thick,Low,Medium,High,Yes,No,Yes,No,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Iron
+931,34,Dry,Curly,Medium,Low,High,Medium,No,No,Yes,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Coconut Oil, Keratin",Collagen
+932,60,Normal,Wavy,Thin,Medium,Low,Low,No,Yes,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Castor Oil, Jojoba Oil",Collagen
+933,49,Normal,Wavy,Medium,Low,Low,Medium,No,No,Yes,Yes,No,Yes,"Fragrance, Silicones, PEGs",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Biotin
+934,58,Normal,Wavy,Thick,Medium,Medium,Medium,Yes,Yes,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Niacinamide, Retinol",Scalp Treatment W,"Castor Oil, Jojoba Oil",Collagen
+935,56,Normal,Curly,Medium,High,Low,Medium,No,Yes,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+936,59,Dry,Curly,Thin,Medium,Medium,High,No,Yes,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",High,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+937,40,Oily,Straight,Thick,Medium,Low,Low,Yes,No,Yes,No,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Niacinamide, Retinol",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+938,55,Oily,Wavy,Thin,Low,High,Medium,Yes,Yes,No,Yes,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Iron
+939,59,Normal,Straight,Thin,Medium,High,Medium,Yes,Yes,Yes,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Iron
+940,37,Dry,Frizzy,Medium,Medium,Medium,Low,Yes,No,Yes,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Coconut Oil, Keratin",Iron
+941,41,Dry,Frizzy,Medium,High,Medium,High,No,Yes,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",High,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Collagen
+942,52,Combination,Straight,Medium,Low,Medium,High,Yes,Yes,No,No,No,Yes,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Collagen, Ceramides",Hair Oil Z,"Castor Oil, Jojoba Oil",Biotin
+943,53,Combination,Curly,Thin,High,Low,Medium,Yes,Yes,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Niacinamide, Retinol",Hair Oil Z,"Coconut Oil, Keratin",Vitamin D
+944,49,Combination,Frizzy,Thin,Low,Medium,High,Yes,Yes,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Collagen, Ceramides",Hair Oil Z,"Aloe Vera, Shea Butter",Collagen
+945,29,Oily,Frizzy,Thick,Low,Low,Low,No,No,Yes,No,No,Yes,"Sulfates, Parabens, Alcohol",Low,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Coconut Oil, Keratin",Biotin
+946,32,Combination,Straight,Thin,High,Low,Medium,Yes,Yes,No,Yes,No,Yes,"Artificial Dyes, Formaldehyde",High,Serum B,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Iron
+947,25,Normal,Frizzy,Thick,Medium,Medium,High,No,Yes,No,Yes,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Niacinamide, Retinol",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+948,46,Normal,Curly,Thick,High,Low,Medium,No,No,No,No,No,No,"Artificial Dyes, Formaldehyde",Medium,Moisturizer A,"Collagen, Ceramides",Conditioner Y,"Aloe Vera, Shea Butter",Vitamin D
+949,42,Oily,Wavy,Thick,High,Low,Medium,No,Yes,Yes,No,Yes,Yes,"Artificial Dyes, Formaldehyde",High,Serum B,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Collagen
+950,59,Normal,Straight,Thick,High,High,Medium,No,Yes,No,No,No,No,"Fragrance, Silicones, PEGs",Medium,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Aloe Vera, Shea Butter",Biotin
+951,31,Oily,Straight,Medium,Low,High,High,No,Yes,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Coconut Oil, Keratin",Collagen
+952,32,Dry,Curly,Thin,Medium,Medium,Medium,Yes,No,No,No,No,No,"Sulfates, Parabens, Alcohol",Low,Serum B,"Hyaluronic Acid, Vitamin C",Shampoo X,"Aloe Vera, Shea Butter",Vitamin D
+953,30,Combination,Frizzy,Thin,Low,Medium,Medium,No,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Aloe Vera, Shea Butter",Iron
+954,20,Oily,Frizzy,Thin,High,Medium,Low,No,No,Yes,Yes,No,Yes,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Iron
+955,29,Normal,Straight,Thin,Low,High,Medium,No,No,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",High,Face Wash D,"Niacinamide, Retinol",Conditioner Y,"Argan Oil, Biotin",Vitamin D
+956,30,Normal,Curly,Thick,Low,Medium,Low,Yes,No,No,Yes,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Face Wash D,"Hyaluronic Acid, Vitamin C",Conditioner Y,"Argan Oil, Biotin",Collagen
+957,27,Dry,Straight,Thick,Low,Medium,Low,No,No,No,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",High,Serum B,"Collagen, Ceramides",Conditioner Y,"Coconut Oil, Keratin",Collagen
+958,36,Dry,Straight,Thick,Low,High,Medium,No,No,Yes,No,No,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Shampoo X,"Argan Oil, Biotin",Collagen
+959,43,Oily,Wavy,Medium,High,High,High,Yes,No,No,No,No,No,"Fragrance, Silicones, PEGs",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Iron
+960,20,Dry,Straight,Thick,High,High,Medium,No,Yes,No,No,No,Yes,"Fragrance, Silicones, PEGs",Low,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Iron
+961,49,Oily,Curly,Thin,Medium,High,Medium,No,Yes,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Coconut Oil, Keratin",Vitamin D
+962,60,Dry,Straight,Thin,High,Medium,High,No,Yes,Yes,No,No,No,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Coconut Oil, Keratin",Collagen
+963,56,Dry,Straight,Thin,High,Medium,High,No,Yes,No,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+964,43,Normal,Frizzy,Thick,Low,Medium,High,No,No,Yes,No,Yes,Yes,"Sulfates, Parabens, Alcohol",Medium,Moisturizer A,"Niacinamide, Retinol",Scalp Treatment W,"Argan Oil, Biotin",Iron
+965,19,Dry,Straight,Medium,Low,Medium,Medium,Yes,No,No,Yes,Yes,No,"Fragrance, Silicones, PEGs",High,Serum B,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Biotin
+966,46,Normal,Curly,Thin,High,Low,High,No,No,Yes,No,Yes,No,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Collagen
+967,32,Oily,Straight,Thick,Medium,Low,Medium,No,No,No,Yes,No,Yes,"Sulfates, Parabens, Alcohol",High,Serum B,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Iron
+968,45,Combination,Frizzy,Medium,Medium,Low,Low,No,No,Yes,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Moisturizer A,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+969,52,Dry,Wavy,Medium,High,Medium,Low,Yes,Yes,No,No,No,Yes,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Aloe Vera, Green Tea Extract",Shampoo X,"Castor Oil, Jojoba Oil",Vitamin D
+970,24,Normal,Straight,Thick,High,Medium,Low,Yes,Yes,Yes,Yes,No,Yes,"Sulfates, Parabens, Alcohol",Medium,Sunscreen C,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+971,45,Combination,Wavy,Thick,High,Medium,Low,No,No,No,No,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Coconut Oil, Keratin",Vitamin D
+972,53,Dry,Straight,Medium,High,Medium,Medium,No,Yes,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Serum B,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Iron
+973,59,Oily,Curly,Medium,Medium,Low,Medium,No,No,Yes,No,No,No,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Aloe Vera, Green Tea Extract",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+974,19,Oily,Frizzy,Medium,Medium,Low,Medium,No,No,No,No,No,No,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Collagen, Ceramides",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+975,28,Combination,Wavy,Medium,High,Low,Medium,Yes,Yes,Yes,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Moisturizer A,"Hyaluronic Acid, Vitamin C",Hair Oil Z,"Argan Oil, Biotin",Vitamin D
+976,29,Combination,Curly,Thick,Low,High,Medium,No,No,Yes,No,Yes,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Castor Oil, Jojoba Oil",Iron
+977,60,Dry,Frizzy,Medium,High,High,High,No,Yes,Yes,No,No,No,"Petroleum, Mineral Oil, Phthalates",Medium,Sunscreen C,"Niacinamide, Retinol",Shampoo X,"Argan Oil, Biotin",Collagen
+978,26,Oily,Frizzy,Thin,High,Low,Low,Yes,No,No,No,Yes,Yes,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Aloe Vera, Green Tea Extract",Shampoo X,"Coconut Oil, Keratin",Biotin
+979,39,Combination,Straight,Thick,Low,Medium,High,Yes,Yes,No,No,Yes,Yes,"Sulfates, Parabens, Alcohol",High,Face Wash D,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Coconut Oil, Keratin",Iron
+980,28,Normal,Curly,Thick,Medium,High,Medium,Yes,No,No,No,No,Yes,"Fragrance, Silicones, PEGs",High,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Argan Oil, Biotin",Vitamin D
+981,60,Normal,Frizzy,Medium,Low,Low,Medium,No,No,No,Yes,Yes,No,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Castor Oil, Jojoba Oil",Biotin
+982,26,Oily,Frizzy,Medium,High,High,Low,No,Yes,Yes,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Iron
+983,23,Dry,Curly,Thick,High,Low,Medium,Yes,Yes,No,No,No,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Iron
+984,23,Oily,Straight,Thick,High,Medium,Medium,No,Yes,Yes,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Vitamin D
+985,20,Oily,Straight,Thick,Medium,High,Low,Yes,No,Yes,Yes,No,No,"Sulfates, Parabens, Alcohol",Medium,Face Wash D,"Aloe Vera, Green Tea Extract",Conditioner Y,"Argan Oil, Biotin",Biotin
+986,25,Normal,Straight,Medium,Low,Low,Medium,No,Yes,Yes,No,No,No,"Fragrance, Silicones, PEGs",Low,Serum B,"Niacinamide, Retinol",Conditioner Y,"Castor Oil, Jojoba Oil",Collagen
+987,41,Dry,Wavy,Thick,High,Medium,Low,Yes,No,No,Yes,Yes,No,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Collagen, Ceramides",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+988,47,Oily,Wavy,Thin,High,Low,Medium,No,No,No,No,Yes,No,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Scalp Treatment W,"Coconut Oil, Keratin",Iron
+989,29,Dry,Frizzy,Medium,Medium,Medium,Low,Yes,No,Yes,No,Yes,No,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Niacinamide, Retinol",Conditioner Y,"Aloe Vera, Shea Butter",Collagen
+990,24,Combination,Frizzy,Medium,Medium,Medium,High,Yes,No,No,No,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Moisturizer A,"Collagen, Ceramides",Scalp Treatment W,"Castor Oil, Jojoba Oil",Vitamin D
+991,24,Dry,Frizzy,Thin,Low,High,High,No,No,No,No,Yes,Yes,"Fragrance, Silicones, PEGs",High,Serum B,"Aloe Vera, Green Tea Extract",Shampoo X,"Argan Oil, Biotin",Vitamin D
+992,57,Normal,Wavy,Medium,Low,Medium,Low,No,Yes,Yes,No,No,Yes,"Artificial Dyes, Formaldehyde",Low,Sunscreen C,"Hyaluronic Acid, Vitamin C",Shampoo X,"Castor Oil, Jojoba Oil",Biotin
+993,57,Oily,Wavy,Medium,Medium,High,High,No,No,No,Yes,No,Yes,"Fragrance, Silicones, PEGs",High,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
+994,27,Combination,Straight,Medium,High,Low,Medium,No,Yes,No,Yes,No,No,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Niacinamide, Retinol",Scalp Treatment W,"Aloe Vera, Shea Butter",Biotin
+995,56,Combination,Straight,Thick,Low,High,Medium,Yes,No,Yes,No,No,Yes,"Fragrance, Silicones, PEGs",Medium,Sunscreen C,"Collagen, Ceramides",Shampoo X,"Argan Oil, Biotin",Biotin
+996,49,Combination,Straight,Medium,High,Medium,High,Yes,No,No,No,No,No,"Sulfates, Parabens, Alcohol",High,Serum B,"Collagen, Ceramides",Shampoo X,"Aloe Vera, Shea Butter",Biotin
+997,22,Dry,Curly,Thin,Medium,Low,Low,No,No,No,Yes,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Collagen, Ceramides",Scalp Treatment W,"Aloe Vera, Shea Butter",Collagen
+998,58,Dry,Straight,Thick,Low,High,High,Yes,Yes,No,No,No,No,"Artificial Dyes, Formaldehyde",High,Serum B,"Niacinamide, Retinol",Hair Oil Z,"Castor Oil, Jojoba Oil",Vitamin D
+999,31,Dry,Wavy,Medium,High,High,Medium,Yes,Yes,No,No,Yes,Yes,"Petroleum, Mineral Oil, Phthalates",Low,Face Wash D,"Collagen, Ceramides",Shampoo X,"Coconut Oil, Keratin",Vitamin D
+1000,33,Combination,Wavy,Thin,Medium,Medium,Low,No,Yes,No,Yes,No,No,"Sulfates, Parabens, Alcohol",Low,Sunscreen C,"Collagen, Ceramides",Scalp Treatment W,"Coconut Oil, Keratin",Vitamin D
