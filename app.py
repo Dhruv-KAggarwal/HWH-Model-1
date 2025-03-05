@@ -80,8 +80,8 @@ def index():
         else:
             return "No sequences found."
 
-        file_path = 'e:/Hackathon/HWH/synthetic_dna_beauty_dataset.csv'
-        data = read_csv(file_path)
+        csv_file_path = os.path.join(app.config['STATIC_FOLDER'], 'synthetic_dna_beauty_dataset.csv')
+        data = read_csv(csv_file_path)
         if data:
             random_entry = get_random_entry(data)
         else:
