@@ -4,6 +4,10 @@ import random
 import csv
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
+import subprocess
+
+# Install dependencies
+subprocess.run(["pip", "install", "-r", "requirements.txt"])
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'uploads'
