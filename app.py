@@ -2,8 +2,6 @@ from flask import Flask, request, render_template, redirect, url_for, send_file
 import os
 import random
 import csv
-from transformers import BertTokenizer, BertForSequenceClassification
-import torch
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 
@@ -11,11 +9,6 @@ app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'uploads'
 app.config['STATIC_FOLDER'] = 'static'
 os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
-
-# Load BERT model and tokenizer
-model_path = 'e:/Hackathon/HWH/bert/model'
-tokenizer = BertTokenizer.from_pretrained(model_path)
-model = BertForSequenceClassification.from_pretrained(model_path)
 
 def read_fasta(file_path):
     sequences = []
@@ -65,12 +58,6 @@ def generate_pdf(data, file_path):
         y -= 20
     c.save()
 
-def predict(sequence):
-    inputs = tokenizer(sequence, return_tensors="pt", truncation=True, padding=True)
-    outputs = model(**inputs)
-    predictions = torch.argmax(outputs.logits, dim=-1)
-    return predictions.item()
-
 @app.route('/', methods=['GET', 'POST'])
 def index():
     global random_entry
@@ -91,15 +78,15 @@ def index():
 
         if sequences:
             random_sequence = get_random_sequence(sequences)
-            prediction = predict(random_sequence)
-            file_path = 'e:/Hackathon/HWH/synthetic_dna_beauty_dataset.csv'
-            data = read_csv(file_path)
-            if data:
-                random_entry = data[prediction]
-            else:
-                return "No data found in the file."
         else:
             return "No sequences found."
+
+        file_path = 'e:/Hackathon/HWH/synthetic_dna_beauty_dataset.csv'
+        data = read_csv(file_path)
+        if data:
+            random_entry = get_random_entry(data)
+        else:
+            return "No data found in the file."
 
     return render_template('index.html', random_sequence=random_sequence, random_entry=random_entry)
 
