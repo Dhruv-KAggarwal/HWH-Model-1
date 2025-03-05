@@ -4,10 +4,6 @@ import random
 import csv
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
-import subprocess
-
-# Install dependencies
-subprocess.run(["pip", "install", "-r", "requirements.txt"])
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'uploads'
@@ -64,7 +60,6 @@ def generate_pdf(data, file_path):
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    global random_entry
     random_sequence = None
     random_entry = None
     if request.method == 'POST':
@@ -96,7 +91,7 @@ def index():
 
 @app.route('/download_pdf', methods=['POST'])
 def download_pdf():
-    global random_entry
+    random_entry = request.form.get('random_entry')
     if random_entry:
         pdf_path = os.path.join(app.config['UPLOAD_FOLDER'], 'predicted_data.pdf')
         generate_pdf(random_entry, pdf_path)
